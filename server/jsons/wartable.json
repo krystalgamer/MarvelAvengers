@@ -1,0 +1,1332 @@
+{
+  "entries": {
+    "entries": [
+      {
+        "warzone": {
+          "name": "5e31fa40387d6150768aeb3f",
+          "attributes": {},
+          "etag": "AEpLWw",
+          "labels": [],
+          "description": {
+            "draft": [],
+            "name": "Warzone_5e31fa40387d6150768aeb3f_Descriptions",
+            "text": {
+              "de": "JARVIS benötigt ein neues neurales Uplink. Maria Hill denkt, sie hat eines in einem alten SHIELD-Bunker gefunden, aber um es zu holen, müssen Kamala und der Hulk tief in AIM-Territorium vordringen.",
+              "ru": "Джарвису требуется новое нейронное подключение. Мария Хилл полагает, что обнаружила один экземпляр в старом бункере ЩИТа, но чтобы попасть туда, Камале и Халку придется проникнуть глубоко на территорию АИМ.",
+              "ko": "자비스에게 새로운 신경 업링크가 필요합니다. 마리아 힐은 오래된 쉴드 벙커에서 신경 업링크를 찾아냈다고 하지만, 그걸 확보하려면 카말라와 헐크는 AIM의 영토 깊숙한 곳으로 가야 합니다.",
+              "pt": "JARVIS precisa de um novo uplink neural. Maria Hill acha que localizou um em um velho bunker da SHIELD, mas Kamala e o Hulk vão precisar entrar a fundo em um território da AIM para encontrá-lo.",
+              "zh-tw": "賈維斯需要新的神經連線站。瑪麗亞．希爾認為她在一個神盾局碉堡內找到了一個，但是卡瑪拉和浩克必須深入超智機構領地才能拿到手。",
+              "en": "JARVIS needs a new neural uplink. Maria Hill thinks she's located one in an old SHIELD bunker, but Kamala and the Hulk will need to go deep into AIM territory to find it.",
+              "it": "A JARVIS serve un nuovo collegamento neurale. Maria Hill pensa di averne trovato uno in un vecchio bunker dello SHIELD, ma Kamala e Hulk devono avventurarsi nel territorio dell'AIM per trovarlo.",
+              "fr": "JARVIS a besoin d'une nouvelle liaison neurale. Maria Hill pense en avoir trouvé une dans un vieux bunker du SHIELD, mais Kamala et Hulk devront s'aventurer dans le territoire de l'AIM pour le trouver.",
+              "zh-cn": "贾维斯需要一个新的神经上行链路。玛丽亚·希尔在废弃的神盾局地堡中找到了一个，但卡玛拉和浩克需要深入先锋科技的控制区域才能找到它。",
+              "es": "JARVIS necesita una nueva red neuronal. Maria Hill cree que ha encontrado una en un antiguo búnker de SHIELD, pero Kamala y Hulk necesitan adentrarse en territorio IMA para encontrarla.",
+              "es-mx": "JARVIS necesita un nuevo enlace neuronal. Maria Hill cree haber localizado uno en un antiguo búnker de SHIELD, pero Kamala y Hulk tendrán que adentrarse en el territorio de AIM para encontrarlo.",
+              "cs": "JARVIS potřebuje novou neuronovou přípojku. Maria Hillová si myslí, že je v jednom ze starých bunkrů SHIELDu, Kamala s Hulkem se pro ni ale budou muset vypravit hluboko na území AIMu.",
+              "ar": "يحتاج جارفيس لرابط عصبي جديد. تظن ماريا هيل أنه يوجد واحد في مخبأ شيلد قديم، لكن على كامالا وهالك التعمق داخل منطقة تحت سيطرة اى.أي.م للعثور عليه.",
+              "ja": "ジャーヴィスは新たな神経回路を必要としている。マリア・ヒルは古いSHIELDの地下施設にその一つがあると考えているが、カマラとハルクがそこにたどり着くためには、AIMの支配地域の奥深くへと侵入を果たさなければならない。",
+              "pl": "JARVIS potrzebuje nowego łącza neuralnego. Maria Hill twierdzi, że znalazła takie łącze w starym bunkrze SHIELD, ale Kamala i Hulk będą musieli zapuścić się głęboko na terytorium AIM, by je odzyskać."
+            },
+            "type": "TEXT"
+          },
+          "header": {
+            "levelLowerBound": 5,
+            "requiredHeroHash": -503738430,
+            "altitude": 0,
+            "wartableRegionIDHash": 6682125,
+            "glpTypeHash": -786294958,
+            "latitude": 0,
+            "flags": 162,
+            "missionTypeHash": 1604416628,
+            "regionIDHash": 6682125,
+            "TitleSCHFileName": "local\\localization\\_Objectives_PrimaryObjectives\\_Wartable\\wartable_tdz_silent_bunker_title.sch",
+            "difficultyIDHash": -1665017922,
+            "useGlpUpperBound": false,
+            "warzonePreviewImageHash": 1964399146,
+            "glpUpperBoundValueHash": 788376724,
+            "longitude": 40,
+            "textureBudgetModifier": 0,
+            "missionIDHash": -1027601104,
+            "author": "jhughes",
+            "rewardTableIDHash": 1625878925,
+            "lengthIDHash": 840738933,
+            "glpLowerBoundValueHash": 788376724,
+            "useGlpLowerBound": false,
+            "levelUpperBound": 100,
+            "sortBias": 0,
+            "DescriptionSCHFileName": "local\\localization\\_Objectives_PrimaryObjectives\\_Wartable\\wartable_tdz_silent_bunker_desc.sch",
+            "attributes": {
+              "MinimumNumberOfPlayers": {
+                "type": "int32",
+                "value": 0
+              }
+            },
+            "warzoneDataStoreLocation": 1,
+            "region": "TundraRegionID",
+            "requiredDlcLicenseHashList": [
+              -909686745
+            ]
+          },
+          "title": {
+            "draft": [],
+            "name": "Warzone_5e31fa40387d6150768aeb3f_Titles",
+            "text": {
+              "de": "Ohne Links kein Voran",
+              "ru": "Подключение отсутствует",
+              "ko": "사라진 연결 고리",
+              "pt": "Elos perdidos",
+              "zh-tw": "消失的連線",
+              "en": "Missing Links",
+              "it": "Collegamenti mancanti",
+              "fr": "Liaisons manquantes",
+              "zh-cn": "丢失的链路",
+              "es": "Perdiendo la conexión",
+              "es-mx": "Eslabones perdidos",
+              "cs": "Chybějící články",
+              "ar": "روابط مفقودة",
+              "ja": "ミッシング・リンク",
+              "pl": "Brakujące ogniwa"
+            },
+            "type": "TEXT"
+          },
+          "bundle": "default"
+        },
+        "isHopper": false,
+        "type": "WARZONE"
+      },
+      {
+        "warzone": {
+          "name": "5e519da1105fee5abb66412a",
+          "attributes": {},
+          "etag": "AEpMBQ",
+          "labels": [],
+          "description": {
+            "draft": [],
+            "name": "Warzone_5e519da1105fee5abb66412a_Descriptions",
+            "text": {
+              "de": "In dieser Region gibt es Unruhe. Hilf SHIELD, die Gefahr zu neutralisieren!",
+              "ru": "В регионе ЧП. Помогите ЩИТу нейтрализовать угрозу!",
+              "ko": "이 지역에 소동이 발생했습니다. 쉴드를 도와 위협을 무력화하세요!",
+              "pt": "Há um problema nesta região. Ajude a SHIELD a neutralizar o alvo!",
+              "zh-tw": "這一區有動亂事件，幫助神盾局消滅威脅！",
+              "en": "There's a disturbance in this region. Help SHIELD neutralize the threat!",
+              "it": "C'è un pericolo in questa regione. Aiuta lo SHIELD a neutralizzare la minaccia!",
+              "fr": "Il y a une perturbation dans la région. Aidez le SHIELD à neutraliser la menace !",
+              "zh-cn": "这个地区出现了动乱。帮助神盾局消灭威胁！",
+              "es": "Hay un altercado en esta región. ¡Ayuda a SHIELD a neutralizar la amenaza!",
+              "es-mx": "Hay un disturbio en esta región. ¡Ayuda a SHIELD a neutralizar la amenaza!",
+              "cs": "V tomto regionu dochází k nepokojům. Pomoz SHIELDu zlikvidovat hrozbu.",
+              "ar": "هناك شغب في هذه المنطقة. ساعد شيلد في التخلص من ذلك الخطر!",
+              "ja": "この地域で問題が発生している。SHIELDと協力して制圧しよう！",
+              "pl": "W tym regionie panują niepokoje. Pomóż SHIELD zneutralizować zagrożenie!"
+            },
+            "type": "TEXT"
+          },
+          "header": {
+            "levelLowerBound": 20,
+            "requiredHeroHash": -503738430,
+            "altitude": 0,
+            "wartableRegionIDHash": 2116238088,
+            "glpTypeHash": -208532670,
+            "latitude": 0,
+            "flags": 130,
+            "missionTypeHash": -515318138,
+            "regionIDHash": 2116238088,
+            "uid": "",
+            "TitleSCHFileName": "local\\localization\\_Objectives_PrimaryObjectives\\_Missions\\BossLair_Tortuga_Shield_title.sch",
+            "difficultyIDHash": -1406695490,
+            "useGlpUpperBound": false,
+            "warzonePreviewImageHash": 1739773568,
+            "glpUpperBoundValueHash": 788376724,
+            "longitude": 40,
+            "textureBudgetModifier": 0,
+            "missionIDHash": -1210403838,
+            "author": "rmurphy",
+            "rewardTableIDHash": -1783651113,
+            "lengthIDHash": 840738933,
+            "glpLowerBoundValueHash": -1155680243,
+            "useGlpLowerBound": true,
+            "levelUpperBound": 130,
+            "sortBias": 100,
+            "DescriptionSCHFileName": "local\\localization\\_Objectives_PrimaryObjectives\\_Missions\\BossLair_Tortuga_SHIELD_desc.sch",
+            "attributes": {
+              "MinimumNumberOfPlayers": {
+                "type": "int32",
+                "value": 0
+              }
+            },
+            "warzoneDataStoreLocation": 1,
+            "region": "PacificNorthwestRegionID",
+            "requiredDlcLicenseHashList": [
+              -909686745
+            ]
+          },
+          "title": {
+            "draft": [],
+            "name": "Warzone_5e519da1105fee5abb66412a_Titles",
+            "text": {
+              "de": "Titanenbändigung",
+              "ru": "Борьба с титанами",
+              "ko": "타이탄 길들이기",
+              "pt": "Domando um Titã",
+              "zh-tw": "馴服巨人",
+              "en": "To Tame a Titan",
+              "it": "Domare un titano",
+              "fr": "Dompter un titan",
+              "zh-cn": "驯服巨人",
+              "es": "Domar un titán",
+              "es-mx": "Domar a un titán",
+              "cs": "Zkrocení titána",
+              "ar": "ترويض عملاق",
+              "ja": "巨人を飼いならすには",
+              "pl": "Poskromienie tytana"
+            },
+            "type": "TEXT"
+          },
+          "bundle": "default"
+        },
+        "isHopper": false,
+        "type": "WARZONE"
+      },
+      {
+        "warzone": {
+          "name": "5e581584afcc360fec2b39e8",
+          "attributes": {},
+          "etag": "AEpMDA",
+          "labels": [],
+          "description": {
+            "draft": [],
+            "text": {
+              "de": "Die Resistance hat die geheime Position eines weiteren SHIELD-Bunkers entdeckt, aber AIM ist auch in der Region. Die Avengers müssen seinen Inhalt sichern, bevor AIM dazwischenfunkt.",
+              "ru": "Сопротивление вычислило местонахождение еще одного тайного убежища ЩИТа, однако в районе действуют силы АИМ. Мстители должны добыть содержимое убежища прежде, чем противники смогут их остановить.",
+              "ko": "레지스탕스가 또 다른 쉴드 금고가 숨겨진 위치를 알아냈는데, 해당 지역에서 AIM이 확인되었습니다. AIM이 관여하기 전에, 어벤져스가 금고의 내용물을 회수해야 합니다.",
+              "pt": "A Resistência descobriu o local secreto de outra caixa-forte da SHIELD, mas a AIM está na área. Os Avengers devem recuperar seu conteúdo antes que a AIM possa interferir.",
+              "zh-tw": "反抗組織又發現了另一個祕密神盾局金庫的地點，不過附近有超智機構的人馬。復仇者聯盟必須在超智機構介入前取回金庫內的東西。",
+              "en": "The Resistance has discovered the hidden location of another SHIELD Vault, but AIM is in the area. The Avengers must recover its contents before AIM can interfere.",
+              "it": "La Resistenza ha scoperto la posizione di un'altra camera di sicurezza SHIELD nascosta, ma l'AIM è presente nell'area. Gli Avengers devono recuperarne il contenuto prima che l'AIM possa interferire.",
+              "fr": "La Résistance a découvert un autre abri secret du SHIELD, mais l'AIM se trouve dans la zone. Les Avengers doivent récupérer son contenu avant que l'AIM ne s'en mêle.",
+              "zh-cn": "抵抗组织又发现一处神盾局保险库的隐藏地点，但那片区域已被先锋科技占据。复仇者们必须在遭到先锋科技阻碍之前回收其中的物品。",
+              "es": "La Resistencia ha descubierto la ubicación de otra cámara oculta de SHIELD, pero IMA está en la zona. Los Avengers deben recuperar su contenido antes de que IMA pueda interferir.",
+              "es-mx": "La Resistencia descubrió la ubicación oculta de otra bóveda de SHIELD, pero AIM está en la zona. Los Avengers tienen que recuperar su contenido antes de que AIM pueda interferir.",
+              "cs": "Hnutí odporu vypátralo, kde se nachází další skladiště SHIELDu. AIM se ale nachází v jeho okolí. Avengers musí získat obsah skladiště dřív, než se k němu dostane AIM."
+,
+              "ar": "اكتشفت المقاومة الموقع المخبأ لخزنة شيلد أخرى، لكن اى.أي.م منتشرة في المنطقة. على الأفنجرز استعادة محتوياتها قبل أن تتدخل اى.أي.م.",
+              "ja": "レジスタンスがまた1つSHIELD保管庫の位置を突き止めてくれた。だが現場にはAIMがいる。邪魔される前にアベンジャーズの力で中身を回収せよ。",
+              "pl": "Ruch oporu odkrył ukrytą lokalizację kolejnego skarbca SHIELD, jednak AIM zajęło teren. Avengersi muszą odzyskać zawartość skarbca, zanim zrobi to AIM."
+            },
+            "type": "TEXT"
+          },
+          "header": {
+            "levelLowerBound": 1,
+            "requiredHeroHash": -503738430,
+            "altitude": 0,
+            "wartableRegionIDHash": 6682125,
+            "glpTypeHash": -786294958,
+            "latitude": 60,
+            "flags": 162,
+            "missionTypeHash": 701839329,
+            "regionIDHash": 6682125,
+            "TitleSCHFileName": "local\\localization\\_Objectives_PrimaryObjectives\\_Missions\\vault_snow_title.sch",
+            "difficultyIDHash": -1406695490,
+            "useGlpUpperBound": false,
+            "warzonePreviewImageHash": 1739773568,
+            "glpUpperBoundValueHash":
+ 788376724,
+            "longitude": 0,
+            "textureBudgetModifier": 0,
+            "missionIDHash": -1943442850,
+            "author": "aostojich",
+            "rewardTableIDHash": -1262835892,
+            "lengthIDHash": -775912132,
+            "glpLowerBoundValueHash": 788376724,
+            "useGlpLowerBound": false,
+            "levelUpperBound": 130,
+            "sortBias": 0,
+            "DescriptionSCHFileName": "local\\localization\\_Objectives_PrimaryObjectives\\_Missions\\vault_generic_desc.sch",
+            "attributes": {
+              "MinimumNumberOfPlayers": {
+                "type": "int32",
+                "value": 0
+              }
+            },
+            "warzoneDataStoreLocation": 1,
+            "region": "TundraRegionID",
+            "requiredDlcLicenseHashList": [
+              -909686745
+            ]
+          },
+          "title": {
+            "draft": [],
+            "text": {
+              "de": "Verschneiter Tundrabunker",
+              "ru": "Убежищe – снежная тундра",
+              "ko": "눈 덮인 툰드라 금고",
+              "pt": "Caixa-forte da Tundra Nevada",
+              "zh-tw": "冰封凍原金庫",
+              "en": "Snowy Tundra Vault",
+              "it": "Camera di sicurezza nella tundra innevata",
+              "fr": "Abri de la toundra enneigée",
+              "zh-cn": "冰雪苔原保险库",
+              "es": "Cámara de la tundra nevada",
+              "es-mx": "Bóveda de la tundra nevada",
+              "cs": "Skladiště v mrazivé tundře",
+              "ar": "خزنة السهل المتجمد",
+              "ja": "ツンドラの保管庫",
+              "pl": "Skarbiec w zaśnieżonej tundrze"
+            },
+            "type": "TEXT"
+          },
+          "bundle": "default"
+        },
+        "isHopper": false,
+        "type": "WARZONE"
+      },
+      {
+        "warzone": {
+          "name": "5e54394b105fee5abb8ee071",
+          "attributes": {},
+          "etag": "AEpLRg",
+          "labels": [],
+          "description": {
+            "draft": [],
+            "name": "Warzone_5e54394b105fee5abb8ee071_Descriptions",
+            "text": {
+              "de": "Die Resistance hat eine AIM-Einrichtung entdeckt, die für ihre Infrastruktur unerlässlich ist. Dringe ein, sabotiere so viel wie möglich und ziehe ab, bevor AIM etwas mitkriegt. ",
+              "ru": "Сопротивление обнаружило важный объект инфраструктуры АИМ. Отправляйтесь туда, нанесите как можно больше повреждений и возвращайтесь прежде, чем АИМ успеет опомниться.",
+              "ko": "레지스탕스가 AIM의 기반 설비에 필수적인 시설의 위치를 확인했습니다. 그곳에 침투해서 눈에 띄는 것은 모두 파괴하고, AIM이 눈치채기 전에 빠져나오세요.",
+              "pt": "A resistência localizou uma instalação da AIM vital para sua infraestrutura. Vá até o local, sabote tudo o que conseguir achar, e saia antes que a AIM descubra o que a atacou.",
+              "zh-tw": "反抗組織找到了超智機構維持基礎建設的重要設施。進入設施，盡量破壞找到的東西，並趁超智機構搞清楚敵人之前離開。",
+              "en": "The Resistance has located an AIM facility vital to its infrastructure. Get in there, sabotage whatever you can find, and get out before AIM knows what hit them.",
+              "it": "La Resistenza ha trovato una struttura AIM fondamentale per l'organizzazione. Entra, sabota tutto quello che riesci a trovare ed esci prima che l'AIM capisca cosa li ha colpiti.",
+              "fr": "La Résistance a localisé un complexe de l'AIM essentiel pour son infrastructure. Rendez-vous sur place, sabotez tout ce que vous trouverez et repartez avant que l'AIM ne comprenne ce qui se passe.",
+              "zh-cn": "抵抗组织发现了一处对其基建至关重要的先锋科技设施。进入设施，破坏眼前的一切，并在先锋科技尚未察觉之前离开。",
+              "es": "La Resistencia ha encontrado unas instalaciones vitales para la infraestructura de IMA. Entra, sabotea lo que encuentres y sal antes de que IMA se entere.",
+              "es-mx": "La Resistencia ha localizado una instalación de AIM fundamental para su infraestructura. Entra, sabotea lo que encuentres y sal antes de que AIM se dé cuenta de qué ocurrió.",
+              "cs": "Hnutí odporu nalezlo komplex, který má velký význam pro infrastrukturu AIM. Dostaň se tam, proveď sabotáž všeho důležitého, co tam najdeš, a zmiz odtamtud, než se AIM rozkouká.",
+              "ar": "عثرت المقاومة على موقع منشأة اى.أي.م مهمة لبُنيتها التحتية. اذهب إلى هناك وخرّب ما تعثر عليه واخرج قبل أن تعلم اى.أي.م ما حلّ عليها.",
+              "ja": "レジスタンスがAIMのインフラに不可欠な施設を発見した。施設内に潜入し、手当たりしだいに破壊工作を行って、敵にバレる前に脱出せよ。",
+              "pl": "Ruch oporu zlokalizował placówkę AIM istotną dla infrastruktury. Udajcie się tam, zniszczcie, co uda wam się znaleźć, i wydostańcie się, zanim AIM zdąży się zorientować."
+            },
+            "type": "TEXT"
+          },
+          "header": {
+            "levelLowerBound": 1,
+            "requiredHeroHash": -503738430,
+            "altitude": 0,
+            "wartableRegionIDHash": -1841943495,
+            "glpTypeHash": -208532670,
+            "latitude": 80,
+            "flags": 130,
+            "missionTypeHash": 1502667658,
+            "regionIDHash": -1841943495,
+            "TitleSCHFileName": "local\\localization\\_Objectives_PrimaryObjectives\\_Missions\\Dropzone_Sabotage_A.sch",
+            "difficultyIDHash": -1406695490,
+            "useGlpUpperBound": false,
+            "warzonePreviewImageHash": 1739773568,
+            "glpUpperBoundValueHash": 788376724,
+            "longitude": 40,
+            "textureBudgetModifier": 0,
+            "missionIDHash": -2132640461,
+            "author": "alair",
+            "rewardTableIDHash": 1777820535,
+            "lengthIDHash": 840738933,
+            "glpLowerBoundValueHash": -1155680243,
+            "useGlpLowerBound": true,
+            "levelUpperBound": 100,
+            "sortBias": 0,
+            "DescriptionSCHFileName": "local\\localization\\_Objectives_PrimaryObjectives\\_Missions\\Dropzone_Sabotage_desc.sch",
+            "attributes": {
+              "MinimumNumberOfPlayers": {
+                "type": "int32",
+                "value": 0
+              }
+            },
+            "warzoneDataStoreLocation": 1,
+  
+          "region": "UtahRegionID",
+            "requiredDlcLicenseHashList": [
+              -909686745
+            ]
+          },
+          "title": {
+            "draft": [],
+            "name": "Warzone_5e54394b105fee5abb8ee071_Titles",
+            "text": {
+              "de": "Kommunikationsknoten",
+              "ru": "Телекоммуникационный узел",
+              "ko": "통신 집합체",
+              "pt": "Nexo de comunicação",
+              "zh-tw": "通訊連結",
+              "en": "Communication Nexus",
+              "it": "Nucleo di comunicazioni",
+              "fr": "Centre de communication",
+              "zh-cn": "通讯枢纽",
+              "es": "Nexo de comunicaciones",
+              "es-mx": "Nexo de comunicación",
+              "cs": "Komunikační uzel",
+              "ar": "حلقة اتصال",
+              "ja": "通信中枢施設",
+              "pl": "Węzeł komunikacyjny"
+            },
+            "type": "TEXT"
+          },
+          "bundle": "default"
+        },
+        "isHopper": false,
+        "type": "WARZONE"
+      },
+      {
+        "warzone": {
+          "name": "5e556a51105fee5abba9f20b",
+          "attributes": {},
+          "etag": "AEpLQw",
+          "labels": [],
+          "description": {
+            "draft": [],
+            "name": "Warzone_5e556a51105fee5abba9f20b_Descriptions",
+            "text": {
+              "de": "Der Standort eines Hochsicherheitsservers von AIM wurde ausfindig gemacht. Gewinne die Kontrolle über den Server, damit JARVIS in ihre Systeme eindringen und entscheidende Informationen stehlen kann.",
+              "ru": "Мы обнаружили местонахождение секретного сервера АИМ. Перехватите управление сервером, чтобы позволить Джарвису взломать их систему и добыть ценные разведданные.",
+              "ko": "경비가 삼엄한 AIM 서버의 위치가 확인되었습니다. 이 서버를 점령하여 자비스가 적 시스템을 해킹하고 핵심 정보를 훔쳐낼 수 있게 도와주세요.",
+              "pt": "Identificamos local de um servidor de alta segurança da AIM. Tome controle do servidor para o JARVIS poder hackear os sistemas deles e roubar dados essenciais.",
+              "zh-tw": "超智機構嚴密防護的伺服器，位置已經找到了。取得伺服器的控制權，讓賈維斯駭入系統並偷取重要情資。",
+              "en": "The location of a high security AIM server has been identified. Gain control of the server to allow JARVIS to hack into their systems and steal vital intel.",
+              "it": "Abbiamo individuato la posizione di uno dei server di massima sicurezza AIM. Se riuscirai a prendere il controllo del server, JARVIS potrà entrare nel sistema e rubare informazioni vitali.",
+              "fr": "Un serveur hautement sécurisé de l'AIM a été localisé. Prenez le contrôle du serveur pour permettre à JARVIS de pirater les systèmes et de voler des informations importantes.",
+              "zh-cn": "我们已定位了某台被严密保护的先锋科技服务器的所在位置。控制这台服务器，以便贾维斯入侵先锋科技的系统，窃取重要情报。",
+              "es": "Se ha identificado la posición de un servidor de alta seguridad de IMA. Hazte con el control del servidor para que JARVIS pueda piratear sus sistemas y robar información crucial.",
+              "es-mx": "Se ha identificado la ubicación de un servidor de AIM de alta seguridad. Toma el control del servidor para que JARVIS puede hackear su sistema y robar información secreta fundamental.",
+              "cs": "Podařilo se zjistit, kde se nachází vysoce zabezpečený server AIM. Ovládni ho, aby JARVIS mohl proniknout do systému a získat důležité informace.",
+              "ar": "تم التعرف على موقع خادم مشدد الحراسة تابع لاى.أي.م. تولَ السيطرة على الخادم للسماح لجارفيس ؍ɘȘϘ˘Ҙș أنظمتهم وسرقة معلومات مهمة.",
+              "ja": "厳重なセキュリティで守られたAIMのサーバーの位置が判明した。ジャーヴィスがシステムをハッキングして重要な情報を盗み出るよう、サーバーを制圧せよ。",
+              "pl": "Lokalizacja zabezpieczonego serwera AIM została odkryta. Przejmijcie kontrolę nad serwerem, aby JARVIS mógł włamać się do ich systemów i wykraść ważne dane."
+            },
+            "type": "TEXT"
+          },
+          "header": {
+            "levelLowerBound": 1,
+            "requiredHeroHash": -503738430,
+            "altitude": 0,
+            "wartableRegionIDHash": -1841943495,
+            "glpTypeHash": -208532670,
+            "latitude": -40,
+            "flags": 130,
+            "missionTypeHash": 1898742623,
+            "regionIDHash": -1841943495,
+            "TitleSCHFileName": "local\\localization\\_Objectives_PrimaryObjectives\\_Missions\\Dropzone_Control_B.sch",
+            "difficultyIDHash": -1406695490,
+            "useGlpUpperBound": false,
+            "warzonePreviewImageHash": 1739773568,
+            "glpUpperBoundValueHash": 788376724,
+            "longitude": 90,
+            "textureBudgetModifier": 0,
+            "missionIDHash": 1217993273,
+            "author": "aostojich",
+            "rewardTableIDHash": 1777820535,
+            "lengthIDHash": 840738933,
+            "glpLowerBoundValueHash": -1155680243,
+            "useGlpLowerBound": true,
+            "levelUpperBound": 100,
+            "sortBias": 0,
+            "DescriptionSCHFileName": "local\\localization\\_Objectives_PrimaryObjectives\\_Missions\\Dropzone_Control_desc.sch",
+            "attributes": {
+              "MinimumNumberOfPlayers": {
+                "type": "int32",
+                "value": 0
+              }
+            },
+            "warzoneDataStoreLocation": 1,
+            "region": "UtahRegionID",
+            "requiredDlcLicenseHashList": [
+              -909686745
+            ]
+          },
+          "title": {
+            "draft": [],
+            "name": "Warzone_5e556a51105fee5abba9f20b_Titles",
+            "text": {
+              "de": "Quantenforschungsbunker",
+              "ru": "Подземная лаборатория квантовых исследований",
+              "ko": "양자 연구 벙커",
+              "pt": "Bunker de pesquisa quântica",
+              "zh-tw": "量子研究碉堡",
+              "en": "Quantum Research Bunker",
+              "it": "Bunker di ricerca quantica",
+              "fr": "Bunker de recherche quantique",
+              "zh-cn": "量子研究地堡",
+              "es": "Búnker de investigación cuántica",
+              "es-mx": "Búnker de investigación cuántica",
+              "cs": "Bunkr pro kvantové výzkumy",
+              "ar": "وكر أبحاث علوم الكَم",
+              "ja": "量子研究地下施設",
+              "pl": "Schron badań kwantowych"
+            },
+            "type": "TEXT"
+          },
+          "bundle": "default"
+        },
+        "isHopper": false,
+        "type": "WARZONE"
+      },
+      {
+        "warzone": {
+          "name": "5bb5081e32b2c11d9486ea1e",
+          "attributes": {},
+          "etag": "AEpLLA",
+          "labels": [],
+          "description": {
+            "draft": [],
+            "name": "5bb5081e32b2c11d9486ea16",
+            "text": {
+              "de": "Die Holografische Augmentierte Realität-Maschine, ein virtuelles Trainingsmodul mit dem die Avengers Kampfszenarien simulieren. Das virtuelle Trainingsmodul wird zum Ausprobieren von Ausrüstung und Fähigkeiten vor dem Kampf bevorzugt.",
+              "ru": "Комната ВРЕД – это отсек виртуальных тренировок, используемый Мстителями для упражнений в обстановке, приближенной к боевой. Виртуальная тренировка – наилучший способ опробовать снаряжение и умения,прежде чем вылетать на задание.",
+              "ko": "홀로그램 증강 현실 장치는 어벤져스가 전투 시나리오를 시뮬레이션하는 데 사용하는 가상 훈련 모듈입니다. 실제 전투에 참여하기 전에 장비와 기술을 시험해 보기에 좋은 방법입니다.",
+              "pt": "A sala de Holograma Assistido de Realidade em Máquina é um módulo de treino virtual usado pelos Avengers para simular situações de combate. Este é o método preferencial para testar equipamentos e habilidades antes de sair para a batalha.",
+              "zh-tw": "全像擴增實境機是復仇者聯盟用來模擬戰鬥場景的虛擬訓練模擬。虛擬訓練模擬是在整裝上戰場前，先行測試裝備及技能的好方法。",
+              "en": "The Holographic Augmented Reality Machine, a virtual training module used by The Avengers to simulate combat scenarios. The virtual training module is the preferred method of testing out gear and skills before suiting up for battle.",
+              "it": "La Holographic Augmented Reality Machine, un modulo di addestramento virtuale usato dagli Avengers per simulare scenari di combattimento. Il modulo di addestramento virtuale è il modo perfetto per provare equipaggiamento e abilità prima di andare in battaglia.",
+              "fr": "La machine de réalité augmentée holographique est un module d'entraînement virtuel utilisé par les Avengers pour simuler des scénarios de combat. Le module d'entraînement virtuel est le meilleur moyen de tester de l'équipement et des compétences avant de se préparer au combat.",
+              "zh-cn": "全息增强现实装置（HARM）是复仇者用于模拟作战场景的虚拟训练模组。虚拟训练模组是在投入实战之前对装备和技能进行测试的优选方法。",
+              "es": "La máquina holográfica de realidad aumentada, un módulo de entrenamiento virtual que los Avengers utilizan para simular escenarios de combate. El módulo de entrenamiento virtual es la mejor manera de poner a prueba el equipo y las habilidades antes de prepararse para el combate.",
+              "es-mx": "La máquina holográfica de realidad aumentada (HARM) es un módulo de entrenamiento virtual que los Avengers usan para simular situaciones de combate. El módulo de entrenamiento virtual es el método preferido para probar equipos y habilidades antes de prepararse para la batalla.",
+              "cs": "Holograficky aktivovanáreálná místnost je virtuální tréninkový modul, pomocí nějž Avengers simulují bojové situace. Virtuální tréninkový modul se hodí ke zkoušení vybavení a schopností před jejich využitím ve skutečném boji.",
+              "ar": "آلة الواقع المعزز التجسيدية هي نموذج تدريب مرئي يستخدمه الأفنجرز لمحاكاة القتالات الواقعية. نموذج التدريب المرئي هو الوسيلة المفضلة لاختبار العتاد والمهارات قبل التجهّز لمعركة.",
+              "ja": "立体映像ARマシンことHARMは、アベンジャーズの面々が戦闘のシナリオを疑似体験できるバーチャルトレーニングモジュールだ。ここでギアやスキルの使い勝手を試しておけば、実戦で使う時に困らない。",
+              "pl": "Holograficzna Maszyna Rzeczywistości Rozszerzonej (HARM), wirtualny moduł szkoleniowy używany przez Avengersów do symulowania walk. Wirtualny moduł szkoleniowy jest preferowaną metodą testowania wyposażenia i umiejętności przed wyborem sprzętu do misji."
+            },
+            "type": "TEXT"
+          },
+          "header": {
+            "levelLowerBound": 1,
+            "requiredHeroHash": -503738430,
+            "altitude": 0,
+            "wartableRegionIDHash": 846591183,
+            "glpTypeHash": -786294958,
+            "latitude": 60,
+            "flags": 162,
+            "missionTypeHash": -1591940463,
+            "regionIDHash": 863428084,
+            "uid": "",
+            "TitleSCHFileName": "local\\localization\\_Objectives_PrimaryObjectives\\_Missions\\MC_HARMChallenge1_Title.sch",
+            "difficultyIDHash": -1406695490,
+            "useGlpUpperBound": false,
+            "warzonePreviewImageHash": 387043299,
+            "glpUpperBoundValueHash": 788376724,
+            "longitude": -60,
+            "textureBudgetModifier": 0,
+            "missionIDHash": 2047921097,
+            "author": "wkerslake",
+            "rewardTableIDHash": -1808906718,
+            "lengthIDHash": 840738933,
+            "glpLowerBoundValueHash": 788376724,
+            "useGlpLowerBound": false,
+            "levelUpperBound": 100,
+            "sortBias": 100,
+            "DescriptionSCHFileName": "local\\localization\\_Objectives_PrimaryObjectives\\_Missions\\HARMChallenge_Desc.sch",
+            "attributes": {
+              "MinimumNumberOfPlayers": {
+                "type": "int32",
+                "value": 0
+              }
+            },
+            "warzoneDataStoreLocation": 1,
+            "region": "HelicarrierHarmRoomID",
+            "requiredDlcLicenseHashList": [
+              -909686745
+            ]
+          },
+          "title": {
+            "draft": [],
+            "name": "5bb5081e32b2c11d9486ea15",
+            "text": {
+              "de": "HARM-HERAUSFORDERUNG 1",
+              "ru": "ИСПЫТАНИЕ В КОМНАТЕ ВРЕД 1",
+              "ko": "함 도전 1",
+              "pt": "DESAFIO DA SALA HARM 1",
+              "zh-tw": "HARM挑戰1",
+              "en": "HARM CHALLENGE I",
+              "it": "SFIDA HARM 1",
+              "fr": "DÉFI HARM 1",
+              "zh-cn": "HARM挑战1",
+              "es": "DESAFÍO DE HARM 1",
+              "es-mx": "DESAFÍO HARM 1",
+              "cs": "VÝZVA V HARM 1",
+              "ar": "تحدي إتش إيه آر إم 1",
+              "ja": "HARMチャレンジ1",
+              "pl": "WYZWANIE HARM 1"
+            },
+            "type": "TEXT"
+          },
+          "bundle": "default"
+        },
+        "isHopper": false,
+        "type": "WARZONE"
+      },
+      {
+        "warzone": {
+          "name": "5b5b5ecac6b0993a1f117c82",
+          "attributes": {},
+          "etag": "AEpLZQ",
+          "labels": [],
+          "description": {
+            "draft": [],
+            "name": "5b5b5ecac6b0993a1f117c79",
+            "text": {
+              "de": "SHIELD hat einen weiteren von AIMs großen Arc-Reaktoren gefunden und bittet die Avengers darum, ihn zu zerstören.",
+              "ru": "ЩИТ обнаружил очередной массивный дуговой реактор АИМ и просил Мстителей его уничтожить.",
+              "ko": "쉴드가 AIM의 거대 아크 원자로를 또 발견했으며, 어벤져스에게 파괴해달라고 요청했습니다.",
+              "pt": "A SHIELD descobriu a localização de outro reator arc de larga escala da AIM e pede aos Avengers que o destruam.",
+              "zh-tw": "神盾局又找到了一個超智機構大型電弧反應爐的位置，要請復仇者聯盟去摧毀反應爐。",
+              "en": "SHIELD has found the location of another one of AIM's enlarged arc reactors and asks The Avengers to destroy it.",
+              "it": "Lo SHIELD ha localizzato un altro Reattore Arc ingrandito e ha chiesto agli Avengers di distruggerlo.",
+              "fr": "Le SHIELD a localisé un autre réacteur ARC géant de l'AIM et a chargé les Avengers de le détruire.",
+              "zh-cn": "神盾局找到了先锋科技的又一处大型电弧反应堆实验场，复仇者必须将其摧毁。",
+              "es": "SHIELD ha encontrado la ubicación de otro reactor ARC agrandado de IMA y ha pedido a los Avengers que lo destruyan.",
+              "es-mx": "SHIELD encontró la ubicación de otro reactor Arc agrandado de AIM y solicitó a los Avengers que lo destruyan.",
+              "cs": "SHIELD odhalil další zvětšený obloukový reaktor AIMu a požádal Avengers, aby ho zničili.",
+              "ar": "عثرت شيلد على موقع مفاعل قوسي متضخم آخر خاص باى.أي.م وتطلب من الأفنجرز تدميره.",
+              "ja": "SHIELDはAIMがアーク・リアクターの拡大実験をしている場所を特定し、破壊するようアベンジャーズに要請した。",
+              "pl": "SHIELD odkryła lokalizację kolejnego powiększonego reaktora łukowego i prosi Avengersów o jego zniszczenie."
+            },
+            "type": "TEXT"
+          },
+          "header": {
+            "levelLowerBound": 7,
+            "requiredHeroHash": -503738430,
+            "altitude": 0,
+            "wartableRegionIDHash": 2116238088,
+            "glpTypeHash": -208532670,
+            "latitude": -40,
+            "flags": 130,
+            "missionTypeHash": 1489765285,
+            "regionIDHash": 2116238088,
+            "TitleSCHFileName": "local\\localization\\_Objectives_PrimaryObjectives\\_Missions\\PWZ-PNZ-06_Title.sch",
+            "difficultyIDHash": -1406695490,
+            "useGlpUpperBound": false,
+            "warzonePreviewImageHash": 544177895,
+            "glpUpperBoundValueHash": 788376724,
+            "longitude": 0,
+            "textureBudgetModifier": 0,
+            "missionIDHash": -1205080855,
+            "author": "mstretton",
+            "rewardTableIDHash": 1625878925,
+            "lengthIDHash": 840738933,
+            "glpLowerBoundValueHash": -1155680243,
+            "useGlpLowerBound": true,
+            "levelUpperBound": 100,
+            "sortBias": 0,
+            "DescriptionSCHFileName": "local\\localization\\_Objectives_PrimaryObjectives\\_Missions\\PWZ-PNZ-06_Desc.sch",
+            "attributes": {
+              "MinimumNumberOfPlayers": {
+                "type": "int32",
+                "value": 0
+              }
+            },
+            "warzoneDataStoreLocation": 1,
+            "region": "PacificNorthwestRegionID",
+            "requiredDlcLicenseHashList": [
+              -909686745
+            ]
+          },
+          "title": {
+            "draft": [],
+            "name": "5b5b5ecac6b0993a1f117c78",
+            "text": {
+              "de": "STARKER KONTRAST",
+              "ru": "ЧЕРНЫМ ПО БЕЛОМУ",
+              "ko": "스타크 리얼리티",
+              "pt": "REALIDADES DO STARK",
+              "zh-tw": "史塔克真相",
+              "en": "STARK REALITIES",
+              "it": "REALTÀ STARK",
+              "fr": "Réalités saisissantes",
+              "zh-cn": "不一样的斯塔克",
+  
+            "es": "REALIDADES STARK",
+              "es-mx": "REALIDADES STARK",
+              "cs": "STARKOVA REALITA",
+              "ar": "واقع ستارك",
+              "ja": "厳しい現実",
+              "pl": "RZECZYWISTOŚĆ STARKA"
+            },
+            "type": "TEXT"
+          },
+          "bundle": "default"
+        },
+        "isHopper": false,
+        "type": "WARZONE"
+      },
+      {
+        "warzone": {
+          "name": "5d6ea3765d30d556ac930fb5",
+          "attributes": {},
+          "etag": "AEpmUg",
+          "labels": [],
+          "description": {
+            "draft": [],
+            "name": "5d6ea3745d30d556ac930ee4",
+            "text": {
+              "de": "Ein Team von SHIELD-Agents sitzt beim Kampf gegen AIM in Manhattan in der Falle. Commander Hill möchte, dass die Avengers in ihr früheres Zuhause zurückkehren und sie retten.",
+              "ru": "Группа агентов ЩИТа попала в засаду АИМ на Манхэттене. Коммандер Хилл нуждается в помощи Мстителей.",
+              "ko": "쉴드 요원 한 팀이 맨해튼에서 AIM과 싸우다 고립되었습니다. 커맨더 힐이 어벤져스에게 예전 본거지로 돌아가 요원들을 구출해 달라고 합니다.",
+              "pt": "Uma equipe de agentes da SHIELD está presa em uma luta contra a AIM em Manhattan. A Comandante Hill pede que os Avengers voltem para seu antigo lar e ajude-os.",
+              "zh-tw": "一群神盾局探員在曼哈頓與超智機構對戰時受困。希爾指揮官要復仇者聯盟回老家紐約拯救這些探員。",
+              "en": "A team of SHIELD agents are trapped in a fight against AIM in Manhattan. Commander Hill request the Avengers return to their old home to save them.",
+              "it": "Una squadra di agenti dello SHIELD è bloccata in una battaglia contro l'AIM a Manhattan. Il comandante Hill vuole che gli Avengers tornino nella loro vecchia casa per salvarli.",
+              "fr": "Une équipe d'agents du SHIELD est piégée dans un combat contre l'AIM à Manhattan. Le commandant Hill demande aux Avengers de retourner là-bas pour les sauver.",
+              "zh-cn": "一队神盾局特工在曼哈顿与先锋科技陷入苦战。希尔指挥官希望复仇者能重返旧战场，将他们解救出来。",
+              "es": "Un equipo de agentes de SHIELD ha quedado atrapado en un combate contra IMA en Manhattan. La comandante Hill ha pedido a los Avengers que vuelvan a su antiguo hogar a para salvarlos.",
+              "es-mx": "Un equipo de agentes de SHIELD está atrapado en una lucha contra AIM en Manhattan. La comandante Hill les pide a los Avengers que vuelven a su antiguo hogar para salvarlos.",
+              "cs": "Agentka Garzová by se ráda blíže podívala na některého z nechvalně proslulých děsbotů, které používá AIM. S pomocí Avengers chce analyzovat jeho chování v boji a hledat slabá místa, které pak bude moci Hnutí odporu využívat.",
+              "ar": "فريق من عملاء شيلد محاصر وسط قتال ضد اى.أي.م في مانهاتن. تطلب القائد هيل من الأفنجرز العودة إلى ديارهم وإنقاذهم.",
+              "ja": "SHIELD捜査官のチームがマンハッタンでAIMと戦っているが、戦闘が激化して進退きわまっている。かつての本拠地に出動し、捜査官らを救出するようヒル司令官より要請を受けた。",
+              "pl": "Zespół agentów SHIELD utknął w walce przeciwko AIM na Manhattanie. Komandor Hill prosi Avengersów o powrót do starej bazy i ocalanie jej ludzi."
+            },
+            "type": "TEXT"
+          },
+          "header": {
+            "levelLowerBound": 12,
+            "requiredHeroHash": -503738430,
+            "altitude": 0,
+            "wartableRegionIDHash": -978142844,
+            "glpTypeHash": -208532670,
+            "latitude": -40,
+            "flags": 130,
+            "missionTypeHash": 1772790862,
+            "regionIDHash": 244909536,
+            "uid": "",
+            "TitleSCHFileName": "local\\localization\\_Objectives_PrimaryObjectives\\_Missions\\PWZ-PNZ-01_Title.sch",
+            "difficultyIDHash": -1406695490,
+            "useGlpUpperBound": false,
+            "warzonePreviewImageHash": -2089681052,
+            "glpUpperBoundValueHash": 788376724,
+            "longitude": 0,
+            "textureBudgetModifier": 0,
+            "missionIDHash": 2058685646,
+            "author": "jhughes",
+            "rewardTableIDHash": 1625878925,
+            "lengthIDHash": -775912132,
+            "glpLowerBoundValueHash": -1155680243,
+            "useGlpLowerBound": true,
+            "levelUpperBound": 100,
+            "sortBias": 300,
+            "DescriptionSCHFileName": "local\\localization\\_Objectives_PrimaryObjectives\\_Missions\\PWZ-PNZ-01_Desc.sch",
+            "attributes": {
+              "MinimumNumberOfPlayers": {
+                "type": "int32",
+                "value": 0
+              }
+            },
+            "warzoneDataStoreLocation": 1,
+            "region": "JerseyCityRegionID",
+            "requiredDlcLicenseHashList": [
+              -909686745
+            ]
+          },
+          "title": {
+            "draft": [],
+            "name": "5d6ea3745d30d556ac930ee3",
+            "text": {
+              "de": "Auftritt: die Avengers",
+              "ru": "Встречайте: Мстители",
+              "ko": "들어가기: 어벤져스",
+              "pt": "Entram: Os Avengers",
+              "zh-tw": "進入：復仇者聯盟",
+              "en": "Enter: The Avengers",
+              "it": "Accedi: gli Avengers",
+              "fr": "Soundain les Avengers",
+              "zh-cn": "进入：复仇者",
+              "es": "Presentamos a los Avengers",
+              "es-mx": "Entran: los Avengers",
+              "cs": "Přichází: Avengers",
+              "ar": "ابدأ: الأفنجرز",
+              "ja": "エンター・アベンジャーズ",
+              "pl": "Czas na Avengersów"
+            },
+            "type": "TEXT"
+          },
+          "bundle": "default"
+        },
+        "isHopper": false,
+        "type": "WARZONE"
+      },
+      {
+        "warzone": {
+          "name": "5e548632105fee5abb951dd7",
+          "attributes": {},
+          "etag": "AEpLOg",
+          "labels": [],
+          "description": {
+            "draft": [],
+            "name": "Warzone_5e548632105fee5abb951dd7_Descriptions",
+            "text": {
+              "de": "In dieser Abwurfzonenmission müssen die Avengers rasch und effizient ein AIM-Ziel ausschalten. Rein, den Job erledigen und raus!",
+              "ru": "В этом районе десантирования Мстителям потребуется атаковать цель АИМ и максимально быстро и эффективно вывести ее из строя. Высаживайтесь, выполняете поставленную задачу и возвращаетесь на базу!",
+              "ko": "이 강하 지역 임무에서 어벤져스는 AIM 목표물을 공격하여 빠르고 효과적으로 제거해야 합니다. 빠르게 진입해서 목표를 완수하고 집으로 돌아오세요!",
+              "pt": "Nesta missão de zona de guerra, os Avengers precisam atacar um alvo da AIM e derrubá-lo rapidamente e eficientemente. Entre, faça o trabalho e volte para casa!",
+              "zh-tw": "在空投任務中，復仇者聯盟必須攻擊超智機構目標，並快速有效地解決他們。潛入建築，完成任務，平安回家！",
+              "en": "In this Dropzone mission, the Avengers must assault an AIM target and take it out swiftly and efficiently. Get in, do the job, come home!",
+              "it": "In questa Zona di atterraggio, gli Avengers devono attaccare un bersaglio AIM ed eliminarlo in fretta e con decisione. Vai, porta a termine la missione e torna a casa!",
+              "fr": "Dans cette mission de zone de largage, les Avengers doivent attaquer une cible de l'AIM, et la neutraliser rapidement et efficacement. Foncez, faites le boulot et revenez en vie !",
+              "zh-cn": "在该空投区任务中，复仇者必须突袭某个先锋科技目标，迅速有效地将其消灭。进入设施，解决目标，打道回府！",
+              "es": "En esta misión de zona de entrega, los Avengers deben asaltar un objetivo de IMA y neutralizarlo de forma rápida y eficiente. ¡Entra, haz el trabajo y vuelve a casa!",
+              "es-mx": "Es esta misión de asalto, los Avengers deben atacar un objetivo de AIM y eliminarlo en forma rápida y eficiente. ¡Entra, haz tu trabajo y vuelve a casa!",
+              "cs": "V této výsadkové misi musí Avengers zaútočit na cíl AIM a rychle a účinně ho vyřadit. Pronikni dovnitř, udělej, co je potřeba, a vrať se domů.",
+              "ar": "في مهمة منطقة الطرود هذه، على الأفنجرز مهاجمة أحد أهداف اى.أي.م والقضاء عليه بسرعة وكفاءة. انطلقوا وأكملوا المهمة وعودوا مجددًا!",
+              "ja": "このドロップゾーンミッションでは、AIMのターゲットを強襲し、手際よく始末しなければならない。潜入し、任務を果たして帰還せよ！",
+              "pl": "W tej misji strefy zrzutu Avengersi muszą zaatakować cel AIM i zlikwidować go szybko i skutecznie. Wchodzicie, robicie swoje i wracacie do domu!"
+            },
+            "type": "TEXT"
+          },
+          "header": {
+            "levelLowerBound": 1,
+            "requiredHeroHash": -503738430,
+            "altitude": 0,
+            "wartableRegionIDHash": 2116238088,
+            "glpTypeHash": -208532670,
+            "latitude": 40,
+            "flags": 130,
+            "missionTypeHash": 1998644010,
+            "regionIDHash": 2116238088,
+            "TitleSCHFileName": "local\\localization\\_Objectives_PrimaryObjectives\\_Missions\\Dropzone_Assault_A.sch",
+            "difficultyIDHash": -1406695490,
+            "useGlpUpperBound": false,
+            "warzonePreviewImageHash": 1739773568,
+            "glpUpperBoundValueHash": 788376724,
+            "longitude": 40,
+            "textureBudgetModifier": 0,
+            "missionIDHash": -1174283422,
+            "author": "aostojich",
+            "rewardTableIDHash": 1777820535,
+            "lengthIDHash": 840738933,
+            "glpLowerBoundValueHash": -1155680243,
+            "useGlpLowerBound": true,
+            "levelUpperBound": 100,
+            "sortBias": 0,
+            "DescriptionSCHFileName": "local\\localization\\_Objectives_PrimaryObjectives\\_Missions\\Dropzone_Assault_desc.sch",
+            "attributes": {
+              "MinimumNumberOfPlayers": {
+                "type": "int32",
+                "value": 0
+              }
+            },
+            "warzoneDataStoreLocation": 1,
+            "region": "PacificNorthwestRegionID",
+            "requiredDlcLicenseHashList": [
+              -909686745
+            ]
+          },
+          "title": {
+            "draft": [],
+            "name": "Warzone_5e548632105fee5abb951dd7_Titles",
+            "text": {
+              "de": "Exohydraulik-Gießerei",
+              "ru": "Завод гидравлики экзо-костюмов",
+              "ko": "엑소 유압 제작 공장",
+              "pt": "Fundição exo-hidráulica",
+              "zh-tw": "機械裝水力鑄造廠",
+              "en": "Exo Hydraulics Foundry",
+              "it": "Fonderia di sistemi idraulici per esoscheletri",
+              "fr": "Fonderie exohydraulique",
+              "zh-cn": "机械装液压工厂",
+              "es": "Fundición hidráulica de Exo",
+              "es-mx": "Fundidora Hydra exo",
+              "cs": "Slévárna hydrauliky pro exoskelety",
+              "ar": "مسبك إكزو هيدروليكي",
+              "ja": "エクソ油圧機の鋳造工場",
+              "pl": "Odlewnia egzohydrauliki"
+            },
+            "type": "TEXT"
+          },
+          "bundle": "default"
+        },
+        "isHopper": false,
+        "type": "WARZONE"
+      },
+      {
+        "warzone": {
+          "name": "5e57f691dd993e67352fbdb8",
+          "attributes": {},
+          "etag": "AEpLQA",
+          "labels": [],
+          "description": {
+            "draft": [],
+            "name": "Warzone_5e57f691dd993e67352fbdb8_Descriptions",
+            "text": {
+              "de": "Die Resistance hat ein wichtiges Terrigen-Forschungslabor entdeckt. Infiltriere es und bringe jegliche Materialen aus ihren Experimenten an dich.",
+              "ru": "Сопротивление обнаружило местонахождение ценного объекта: лаборатории по исследованию терригена. Проникните туда и соберите любые используемые там материалы.",
+              "ko": "레지스탕스가 값진 테리젠 연구소를 찾아냈습니다. 연구소에 침입해서 적이 연구에 사용하고 있는 재료를 빼앗으세요.",
+              "pt": "A Resistência descobriu um laboratório de pesquisa Terrigen importante. Infiltrem-se e peguem qualquer material que estejam usando para a pesquisa.",
+              "zh-tw": "反抗組織發現了重要的泰瑞根研究實驗室。潛入並取得他們用來進行實驗的材料。",
+              "en": "The Resistance has discovered a valuable Terrigen research lab. Infiltrate and obtain any materials they've been using in their research.",
+              "it": "La Resistenza ha scoperto un importante laboratorio di ricerca sul terrigen. Infiltrati e trova tutti i materiali che hanno usato per le loro ricerche.",
+              "fr": "La Résistance a découvert un important laboratoire de recherche sur le Terrigen. Infiltrez les lieux et mettez la main sur les matériaux utilisés lors des recherches.",
+              "zh-cn": "抵抗组织发现了一座极具研究价值的泰瑞根研究实验室。潜入并取得任何其一直以来用于研究的材料。",
+              "es": "La Resistencia ha descubierto un valioso laboratorio de investigación del terrígeno. Infíltrate en él y obtén los materiales que hayan estado usando.",
+              "es-mx": "La Resistencia descubrió un valioso laboratorio de investigación de Terrigen. Infíltrate y obtén los materiales que estén usando para investigar.",
+              "cs": "Hnutí odporu odhalilo významnou výzkumnou laboratoř terrigenu. Pronikni do ní a získej materiály, které tam při výzkumu používají.",
+              "ar": "اكتشفت المقاومة مختبر أبحاث تيريجن ذات قيمة. اخترق واجمع أي معلومات يستخدموها في بحثهم.",
+              "ja": "レジスタンスが貴重なテリジェン研究ラボを発見した。ラボに潜入し、調査が行われていた研究素材を入手せよ。",
+              "pl": "Ruch oporu odkrył cenne laboratorium badań nad terrigenem. Dostańcie się tam i zdobądźcie materiały używane do badań."
+            },
+            "type": "TEXT"
+          },
+          "header": {
+            "levelLowerBound": 1,
+            "requiredHeroHash": -503738430,
+            "altitude": 0,
+            "wartableRegionIDHash": 2116238088,
+            "glpTypeHash": -208532670,
+            "latitude": -60,
+            "flags": 130,
+            "missionTypeHash": -1499127592,
+            "regionIDHash": 2116238088,
+            "TitleSCHFileName": "local\\localization\\_Objectives_PrimaryObjectives\\_Missions\\Dropzone_Dominion_A.sch",
+            "difficultyIDHash": -1406695490,
+            "useGlpUpperBound": false,
+            "warzonePreviewImageHash": 1739773568,
+            "glpUpperBoundValueHash": 788376724,
+            "longitude": 70,
+            "textureBudgetModifier": 0,
+            "missionIDHash": -373242660,
+            "author": "alair",
+            "rewardTableIDHash": 1777820535,
+            "lengthIDHash": 840738933,
+            "glpLowerBoundValueHash": -1155680243,
+            "useGlpLowerBound": true,
+            "levelUpperBound": 100,
+          
+  "sortBias": 0,
+            "DescriptionSCHFileName": "local\\localization\\_Objectives_PrimaryObjectives\\_Missions\\Dropzone_Dominion_desc.sch",
+            "attributes": {
+              "MinimumNumberOfPlayers": {
+                "type": "int32",
+                "value": 0
+              }
+            },
+            "warzoneDataStoreLocation": 1,
+            "region": "PacificNorthwestRegionID",
+            "requiredDlcLicenseHashList": [
+              -909686745
+            ]
+          },
+          "title": {
+            "draft": [],
+            "name": "Warzone_5e57f691dd993e67352fbdb8_Titles",
+            "text": {
+              "de": "Proto-Synthoid-Recyclinganlage",
+              "ru": "Завод по переработке протосинтоидов",
+              "ko": "프로토 신스 재활용 공장",
+              "pt": "Usina de reciclagem proto-sintética",
+              "zh-tw": "原型人形機回收廠",
+              "en": "Proto-Synth Recycling Plant",
+              "it": "Impianto di riciclaggio proto-sintetici",
+              "fr": "Usine de recyclage de Proto-Synthoïdes",
+              "zh-cn": "原型合成回收工厂",
+              "es": "Planta de reciclaje protosintético",
+              "es-mx": "Planta de reciclaje protosinte",
+              "cs": "Recyklační stanice protosynthoidů",
+              "ar": "مصنع إعادة تدوير موالفة أولية",
+              "ja": "プロト・シンソイド再生プラント",
+              "pl": "Zakład recyklingu protosyntetyków"
+            },
+            "type": "TEXT"
+          },
+          "bundle": "default"
+        },
+        "isHopper": false,
+        "type": "WARZONE"
+      },
+      {
+        "warzone": {
+          "name": "5bbce69832b2c11d94193e90",
+          "attributes": {},
+          "etag": "AEpLMg",
+          "labels": [],
+          "description": {
+            "draft": [],
+            "name": "5bbce69732b2c11d94193e88",
+            "text": {
+              "de": "Die Holografische Augmentierte Realität-Maschine, ein virtuelles Trainingsmodul mit dem die Avengers Kampfszenarien simulieren. Das virtuelle Trainingsmodul wird zum Ausprobieren von Ausrüstung und Fähigkeiten vor dem Kampf bevorzugt.",
+              "ru": "Комната ВРЕД – это отсек виртуальных тренировок, используемый Мстителями для упражнений в обстановке, приближенной к боевой. Виртуальная тренировка – наилучший способ опробовать снаряжение и умения, прежде чем вылетать на задание.",
+              "ko": "홀로그램 증강 현실 장치는 어벤져스가 전투 시나리오를 시뮬레이션하는 데 사용하는 가상 훈련 모듈입니다. 실제 전투에 참여하기 전에 장비와 기술을 시험해 보기에 좋은 방법입니다.",
+              "pt": "A sala de Holograma Assistido de Realidade em Máquina é um módulo de treino virtual usado pelos Avengers para simular situações de combate. Este é o método preferencial para testar equipamentos e habilidades antes de sair para a batalha.",
+              "zh-tw": "全像擴增實境機是復仇者聯盟用來模擬戰鬥場景的虛擬訓練模擬。虛擬訓練模擬是在整裝上戰場前，先行測試裝備及技能的好方法。",
+              "en": "The Holographic Augmented Reality Machine, a virtual training module used by The Avengers to simulate combat scenarios. The virtual training module is the preferred method of testing out gear and skills before suiting up for battle.",
+              "it": "La Holographic Augmented Reality Machine, un modulo di addestramento virtuale usato dagli Avengers per simulare scenari di combattimento. Il modulo di addestramento virtuale è il modo perfetto per provare equipaggiamento e abilità prima di andare in battaglia.",
+              "fr": "La machine de réalité augmentée holographique est un module d'entraînement virtuel utilisépar les Avengers pour simuler des scénarios de combat. Le module d'entraînement virtuel est le meilleur moyen de tester de l'équipement et des compétences avant de se préparer au combat.",
+              "zh-cn": "全息增强现实装置（HARM）是复仇者用于模拟作战场景的虚拟训练模组。虚拟训练模组是在投入实战之前对装备和技能进行测试的优选方法。",
+              "es": "La máquina holográfica de realidad aumentada, un módulo de entrenamiento virtual que los Avengers utilizan para simular escenarios de combate. El módulo de entrenamiento virtual es la mejor manera de poner a prueba el equipo y las habilidades antes de prepararse para el combate.",
+              "es-mx": "La máquina holográfica de realidad aumentada (HARM) es un módulo de entrenamiento virtual que los Avengers usan para simular situaciones de combate. El módulo de entrenamiento virtual es el método preferido para probar equipos y habilidades antes de prepararse para la batalla.",
+              "cs": "Holograficky aktivovaná reálná místnost je virtuální tréninkový modul, pomocí nějž Avengers simulují bojové situace. Virtuální tréninkový modul se hodí ke zkoušení vybavení a schopností před jejich využitím ve skutečném boji.",
+              "ar": "آلة الواقع المعزز التجسيدية هي نموذج تدريب مرئي يستخدمه الأفنجرز لمحاكاة القتالات الواقعية. نموذج التدريب المرئي هو الوسيلة المفضلة لاختبار العتاد والمهارات قبل التجهّز لمعركة.",
+              "ja": "立体映像ARマシンことHARMは、アベンジャーズの面々が戦闘のシナリオを疑似体験できるバーチャルトレーニングモジュールだ。ここでギアやスキルの使い勝手を試しておけば、実戦で使う時に困らない。",
+              "pl": "Holograficzna Maszyna Rzeczywistości Rozszerzonej (HARM), wirtualny moduł szkoleniowy używany przez Avengersów do symulowania walk. Wirtualny moduł szkoleniowy jest preferowaną metodą testowania wyposażenia i umiejętności przed wyborem sprzętu do misji."
+            },
+            "type": "TEXT"
+          },
+          "header": {
+            "levelLowerBound": 1,
+            "requiredHeroHash": -503738430,
+            "altitude": 0,
+            "wartableRegionIDHash": 846591183,
+            "glpTypeHash": -786294958,
+            "latitude": 0,
+            "flags": 162,
+            "missionTypeHash": -1591940463,
+            "regionIDHash": 863428084,
+            "uid": "",
+            "TitleSCHFileName": "local\\localization\\_Objectives_PrimaryObjectives\\_Missions\\MC_HARMChallenge3_Title.sch",
+            "difficultyIDHash": -1406695490,
+      
+      "useGlpUpperBound": false,
+            "warzonePreviewImageHash": 1265443592,
+            "glpUpperBoundValueHash": 788376724,
+            "longitude": -60,
+            "textureBudgetModifier": 0,
+            "missionIDHash": -1124098159,
+            "author": "wkerslake",
+            "rewardTableIDHash": -1808906718,
+            "lengthIDHash": 840738933,
+            "glpLowerBoundValueHash": 788376724,
+            "useGlpLowerBound": false,
+            "levelUpperBound": 100,
+            "sortBias": 100,
+            "DescriptionSCHFileName": "local\\localization\\_Objectives_PrimaryObjectives\\_Missions\\HARMChallenge_Desc.sch",
+            "attributes": {
+              "MinimumNumberOfPlayers": {
+                "type": "int32",
+                "value": 0
+              }
+            },
+            "warzoneDataStoreLocation": 1,
+            "region": "HelicarrierHarmRoomID",
+            "requiredDlcLicenseHashList": [
+              -909686745
+            ]
+          },
+          "title": {
+            "draft": [],
+            "name": "5bbce69732b2c11d94193e87",
+            "text": {
+              "de": "HARM-HERAUSFORDERUNG 3",
+              "ru": "ИСПЫТАНИЕ В КОМНАТЕ ВРЕД 3",
+              "ko": "함 도전 3",
+
+       
+       "pt": "DESAFIO DA SALA HARM 3",
+              "zh-tw": "HARM挑戰3",
+              "en": "HARM CHALLENGE III",
+              "it": "SFIDA HARM 3",
+              "fr": "DÉFI HARM 3",
+              "zh-cn": "HARM挑战3",
+              "es": "DESAFÍO DE HARM 3",
+              "es-mx": "DESAFÍO HARM 3",
+              "cs": "VÝZVA V HARM 3",
+              "ar": "تحدي إتش إيه آر إم 3",
+              "ja": "HARMチャレンジ3",
+              "pl": "WYZWANIE HARM 3"
+            },
+            "type": "TEXT"
+          },
+          "bundle": "default"
+        },
+        "isHopper": false,
+        "type": "WARZONE"
+      },
+      {
+        "warzone": {
+          "name": "5b4d4ab9c6b0994009155206",
+          "attributes": {},
+          "etag": "AEpMAg",
+          "labels": [],
+          "description": {
+            "draft": [],
+            "name": "5b4d4ab9c6b09940091551fe",
+            "text": {
+              "de": "Auf Bruces Befehl hin hat JARVIS Gammareststrahlung aus einer abgelegenen AIM-Anlage geortet. Der Hulk erhält die Aufgabe, die Werte zu untersuchen und AIM zu stoppen, was immer sie dort planen.",
+              "ru": "По указанию Брюса Джарвис отследил остаточное гамма-излучение, исходящее из удаленной лаборатории АИМ. Халк должен узнать больше об источнике излучения и помешать планам АИМ.",
+              "ko": "브루스의 지시에 따라, 자비스는 외딴곳의 AIM 시설에서 방출되는 잔류 감마선을 탐지했습니다. 헐크는 신호를 조사하고, AIM의 계획을 저지하는 임무를 맡습니다.",
+              "pt": "Seguindo ordens de Bruce, JARVIS detectou resíduos de radiação gama em uma instalação remota da AIM. O Hulk é escalado para investigar as leituras e acabar com o plano da AIM, seja qual for.",
+              "zh-tw": "賈維斯按照布魯斯的命令偵測伽瑪射線，並且追查到了一個偏遠的超智機構設施。浩克要負責調查伽瑪射線來源，並阻止超智機構的相關計畫。",
+              "en": "On Bruce's orders, JARVIS has detected residual gamma radiation coming from a remote AIM facility. The Hulk is tasked with investigating the readings and stopping whatever AIM has planned.",
+              "it": "Su ordine di Bruce, JARVIS ha rilevato delle radiazioni gamma residue provenienti da una struttura AIM remota. Hulk deve indagare sulle rilevazioni e fermare qualsiasi cosa abbia in programma l'AIM.",
+              "fr": "À la demande de Bruce, JARVIS a détecté des radiations gamma résiduelles autour d'un complexe isolé de l'AIM. Hulk est chargé d'enquêter sur ces relevés anormaux et de contrecarrer les plans de l'ennemi, quels qu'ils soient.",
+              "zh-cn": "依据布鲁斯的指示，贾维斯检测到了远处一座先锋科技设施中有残余的伽玛辐射。浩克的任务是调查这些读数，并且阻止先锋科技的阴谋。",
+              "es": "Siguiendo órdenes de Bruce, JARVIS ha detectado radiación gamma residual proveniente de una remota instalación de IMA. Ahora es tarea de Hulk investigar las lecturas y detener lo que sea que planee IMA.",
+              "es-mx": "Siguiendo órdenes de Bruce, JARVIS detectó radiación gamma residual proveniente de unas remotas instalaciones de AIM. Hulk deberá investigar las lecturas y detener los planes de AIM.",
+              "cs": "JARVIS na Brucův příkaz měřil gama záření a nalezl jeho značné zbytkové množství v jistém vzdáleném komplexu AIMu. Hulk dostal za úkol situaci prozkoumat a zarazit cokoli, co AIM chystá.",
+              "ar": "وفقًا لأوامر بروس، رصد جارفيس بقايا إشعاعات غاما تصدر من منشأة اى.أي.م بعيدة. يتولى هالك مهمة تفقد القراءات وإيقاف أيًا كان ما تخطط له اى.أي.م.",
+              "ja": "ブルースの命令を受けて、ジャーヴスは残存ガンマ線をへき地のAIM施設から検知した。ハルクの任務はガンマ線の数値を調査し、AIMの計画をやめさせることだ。",
+              "pl": "Na polecenie Bruce’a, JARVIS wykrył śladowe ilości promieniowania gamma pochodzące z odległej placówki AIM. Hulk musi zbadać te odczyty i pokrzyżować plany AIM."
+            },
+            "type": "TEXT"
+          },
+          "header": {
+            "levelLowerBound": 1,
+            "requiredHeroHash": -14140853,
+            "altitude": 0,
+            "wartableRegionIDHash": 2116238088,
+            "glpTypeHash": -208532670,
+            "latitude": -40,
+            "flags": 130,
+            "missionTypeHash": -1474065363,
+            "regionIDHash": 2116238088,
+            "TitleSCHFileName": "local\\localization\\_Objectives_PrimaryObjectives\\_Missions\\Mission_Hulk_01_Title.sch",
+            "difficultyIDHash": -1665017922,
+            "useGlpUpperBound": false,
+            "warzonePreviewImageHash": -1065628925,
+            "glpUpperBoundValueHash": 788376724,
+            "longitude": 90,
+            "textureBudgetModifier": 0,
+            "missionIDHash": -233398659,
+            "author": "mstretton",
+            "rewardTableIDHash": 1877102055,
+            "lengthIDHash": 840738933,
+            "glpLowerBoundValueHash": -1155680243,
+            "useGlpLowerBound": true,
+            "levelUpperBound": 100,
+            "sortBias": 0,
+            "DescriptionSCHFileName": "local\\localization\\_Objectives_PrimaryObjectives\\_Missions\\Mission_Hulk_01_Desc.sch",
+            "attributes": {
+              "MinimumNumberOfPlayers": {
+                "type": "int32",
+                "value": 0
+              }
+            },
+            "warzoneDataStoreLocation": 1,
+            "region": "PacificNorthwestRegionID",
+            "requiredDlcLicenseHashList": [
+              -909686745
+            ]
+          },
+          "title": {
+            "draft": [],
+            "name": "5b4d4ab9c6b09940091551fd",
+            "text": {
+              "de": "Zustand: grün",
+              "ru": "Состояние: зеленый",
+              "ko": "상태: 녹색",
+              "pt": "Condição: Verde",
+              "zh-tw": "綠色異變",
+              "en": "Condition: Green",
+              "it": "Condizione: verde",
+              "fr": "Signal : Vert",
+              "zh-cn": "状态：绿色",
+              "es": "Estado: verde",
+              "es-mx": "Estado: verde",
+              "cs": "Podmínka: Zelená",
+              "ar": "الحالة: أخضر",
+              "ja": "コンディション・グリーン",
+              "pl": "Warunek: Zielony"
+            },
+            "type": "TEXT"
+          },
+          "bundle": "default"
+        },
+        "isHopper": false,
+        "type": "WARZONE"
+      },
+      {
+        "warzone": {
+          "name": "5c64c14232b2c1d1e877f974",
+          "attributes": {},
+          "etag": "AEpLLw",
+          "labels": [],
+          "description": {
+            "draft": [],
+            "name": "5c64c14032b2c1d1e877f96f",
+            "text": {
+              "de": "Die Holografische Augmentierte Realität-Maschine, ein virtuelles Trainingsmodul mit dem die Avengers Kampfszenarien simulieren. Das virtuelle Trainingsmodul wird zum Ausprobieren von Ausrüstung und Fähigkeiten vor dem Kampf bevorzugt.",
+              "ru": "Комната ВРЕД – это отсек виртуальных тренировок, используемый Мстителями для упражнений в обстановке, приближенной к боевой. Виртуальная тренировка – наилучший способ опробовать снаряжение и умения, прежде чем вылетать на задание.",
+              "ko": "홀로그램 증강 현실 장치는 어벤져스가 전투 시나리오를 시뮬레이션하는 데 사용하는 가상 훈련 모듈입니다. 실제 전투에 참여하기 전에 장비와 기술을 시험해 보기에 좋은 방법입니다.",
+              "pt": "A sala de Holograma Assistido de Realidade em Máquina é um módulo de treino virtual usado pelos Avengers para simular situações de combate. Este é o método preferencial para testar equipamentos e habilidades antes de sair para a batalha.",
+              "zh-tw": "全像擴增實境機是復仇者聯盟用來模擬戰鬥場景的虛擬訓練模擬。虛擬訓練模擬是在整裝上戰場前，先行測試裝備及技能的好方法。",
+              "en": "The Holographic Augmented Reality Machine, a virtual training module used by The Avengers to simulate combat scenarios. The virtual training module is the preferred method of testing out gear and skills before suiting up for battle.",
+              "it": "La Holographic Augmented Reality Machine, un modulo di addestramento virtuale usato dagli Avengers per simulare scenari di combattimento. Il modulo di addestramento virtuale è il modo perfetto per provare equipaggiamento e abilità prima di andare in battaglia.",
+              "fr": "La machine de réalité augmentée holographique est un module d'entraînement virtuel utilisé par les Avengers pour simuler des scénarios de combat. Le module d'entraînement virtuel est le meilleur moyen de tester de l'équipement et des compétences avant de se préparer au combat.",
+              "zh-cn": "全息增强现实装置（HARM）是复仇者用于模拟作战场景的虚拟训练模组。虚拟训练模组是在投入实战之前对装备和技能进行测试的优选方法。",
+              "es": "La máquina holográfica de realidad aumentada, un módulo de entrenamiento virtual que los Avengers utilizan para simular escenarios de combate. El módulo de entrenamiento virtual es la mejor manera de poner a prueba el equipo y las habilidades antes de prepararse para el combate.",
+              "es-mx": "La máquina holográfica de realidad aumentada (HARM) es un módulo de entrenamiento virtual que los Avengers usan para simular situaciones de combate. El módulo de entrenamiento virtual es el método preferido para probar equipos y habilidades antes de prepararse para la batalla.",
+              "cs": "Holograficky aktivovaná reálná místnost je virtuální tréninkový modul, pomocí nějž Avengers simulují bojové situace. Virtuální tréninkový modul se hodí ke zkoušení vybavení a schopností před jejich využitím ve skutečném boji.",
+              "ar": "آلة الواقع المعزز التجسيدية هي نموذج تدريب مرئي يستخدمه الأفنجرز لمحاكاة القتالات الواقعية. نموذج التدريب المرئي هو الوسيلة المفضلة لاختبار العتاد والمهارات قبل التجهّز لمعركة.",
+              "ja": "立体映像ARマシンことHARMは、アベンジャーズの面々が戦闘のシナリオを疑似体験できるバーチャルトレーニングモジュールだ。ここでギアやスキルの使い勝手を試しておけば、実戦で使う時に困らない。",
+              "pl": "Holograficzna Maszyna Rzeczywistości Rozszerzonej (HARM), wirtualny moduł szkoleniowy używany przez Avengersów do symulowania walk. Wirtualny moduł szkoleniowy jest preferowaną metodą testowania wyposażenia i umiejętności przed wyborem sprzętu do misji."
+            },
+            "type": "TEXT"
+          },
+          "header": {
+            "levelLowerBound": 1,
+            "requiredHeroHash": -503738430,
+            "altitude": 0,
+            "wartableRegionIDHash": 846591183,
+            "glpTypeHash": -786294958,
+            "latitude": 30,
+            "flags": 162,
+            "missionTypeHash": -1591940463,
+            "regionIDHash": 863428084,
+            "uid": "",
+            "TitleSCHFileName": "local\\localization\\_Objectives_PrimaryObjectives\\_Missions\\MC_HARMChallenge2_Title.sch",
+            "difficultyIDHash": -1406695490,
+            "useGlpUpperBound": false,
+            "warzonePreviewImageHash": 283044045,
+            "glpUpperBoundValueHash": 788376724,
+            "longitude": -60,
+            "textureBudgetModifier": 0,
+            "missionIDHash": -1431446422,
+            "author": "wkerslake",
+            "rewardTableIDHash": -1808906718,
+            "lengthIDHash": 840738933,
+            "glpLowerBoundValueHash": 788376724,
+            "useGlpLowerBound": false,
+            "levelUpperBound": 100,
+            "sortBias": 100,
+            "DescriptionSCHFileName": "local\\localization\\_Objectives_PrimaryObjectives\\_Missions\\HARMChallenge_Desc.sch",
+            "attributes": {
+              "MinimumNumberOfPlayers": {
+                "type": "int32",
+                "value": 0
+              }
+            },
+            "warzoneDataStoreLocation": 1,
+            "region": "HelicarrierHarmRoomID",
+            "requiredDlcLicenseHashList": [
+              -909686745
+            ]
+          },
+          "title": {
+            "draft": [],
+            "name": "5c64c14032b2c1d1e877f96e",
+            "text": {
+              "de": "HARM-HERAUSFORDERUNG 2",
+              "ru": "ИСПЫТАНИЕ В КОМНАТЕ ВРЕД 2",
+              "ko": "함 도전 2",
+              "pt": "DESAFIO DA SALA HARM 2",
+              "zh-tw": "HARM挑戰2",
+              "en": "HARM CHALLENGE II",
+              "it": "SFIDA HARM 2",
+              "fr": "DÉFI HARM 2",
+              "zh-cn": "HARM挑战2",
+              "es": "DESAFÍO DE HARM 2",
+              "es-mx": "DESAFÍO HARM 2",
+              "cs": "VÝZVA V HARM 2",
+              "ar": "تحدي إتش إيه آر إم 2",
+              "ja": "HARMチャレンジ2",
+              "pl": "WYZWANIE HARM 2"
+            },
+            "type": "TEXT"
+          },
+          "bundle": "default"
+        },
+        "isHopper": false,
+        "type": "WARZONE"
+      },
+      {
+        "warzone": {
+          "name": "5e546af442941b30995ccab4",
+          "attributes": {},
+          "etag": "AEpLUg",
+          "labels": [],
+          "description": {
+            "draft": [],
+            "name": "Warzone_5e546af442941b30995ccab4_Descriptions",
+            "text": {
+              "de": "SHIELD hat die Position eines AIM-Elitetrupps aufgedeckt. Schalte sie aus, bevor AIM den Trupp gegen die Resistance einsetzen kann. Das ist eine schnelle Kommandoaktion.",
+              "ru": "ЩИТ обнаружил отряд элитных бойцов АИМ. Разберитесь с ними до того, как они атакуют Сопротивление, и сразу же возвращайтесь.",
+              "ko": "쉴드에서 정예 AIM 부대의 위치를 확인했습니다. AIM이 해당 부대로 레지스탕스 공격을 시작하기 전에 제거하세요. 신속한 치고 빠지기 작전이 될 겁니다.",
+              "pt": "A SHIELD revelou o local de um pelotão de elite da AIM. Acabem com eles antes que a AIM possa enviar o pelotão contra a Resistência. Esta é uma operação de ataque rápido.",
+              "zh-tw": "神盾局發現了一支菁英超智機構小隊所在位置。趁超智機構派他們去對付反抗組織之前，把這支小隊殲滅。這是需要出擊後快速撤離的行動。",
+              "en": "SHIELD has revealed the location of an elite AIM squad. Take them out before AIM can deploy the squad against the Resistance. This is a quick hit and run operation.",
+              "it": "Lo SHIELD ha scoperto la posizione di una squadra d'élite dell'AIM. Eliminala prima che l'AIM possa schierarla contro la Resistenza. Sarà un'operazione rapida.",
+              "fr": "Le SHIELD a découvert la position d'une escouade d'élite de l'AIM. Éliminez-la avant qu'elle ne soit déployée contre la Résistance. Il s'agit d'une mission éclair.",
+              "zh-cn": "神盾局揭示了一支精英先锋科技小队的位置。在先锋科技部署该小队来打击抵抗组织之前消灭他们。这是一次“打了就跑”的快速袭扰行动。",
+              "es": "SHIELD ha revelado la posición de un escuadrón de élite de IMA. Neutralízalo antes de que IMA lo despliegue contra la Resistencia. Será una operación rápida de ataque y huida.",
+              "es-mx": "SHIELD ha revelado la ubicación de un escuadrón de élite de AIM. Elimínalo antes de que AIM pueda desplegarlo contra la Resistencia. Esta será una operación rápida de atacar y huir.",
+              "cs": "SHIELD odhalil polohu elitní jednotky AIM. Zlikviduj ji dřív, než ji AIM nasadí proti Hnutí odporu. Jde o rychlou přepadovou akci.",
+              "ar": "كشفت شيلد عن موقع فريق اى.أي.م من النخبة. تخلص منهم قبل أن تنشر اى.أي.م الفريق ضد المقاومة. هذه عملية كَر وفَر سريعة.",
+              "ja": "SHIELDがAIMのエリート部隊の位置情報を明らかにした。レジスタンスが襲撃される前にその部隊に奇襲をかけて倒せ。",
+              "pl": "SHIELD ujawniła lokalizację elitarnego oddziału AIM. Zlikwidujcie go, zanim AIM wyśle oddział przeciwko ruchowi oporu. To szybka operacja uderzeniowa."
+            },
+            "type": "TEXT"
+          },
+          "header": {
+            "levelLowerBound": 1,
+            "requiredHeroHash": -503738430,
+            "altitude": 0,
+            "wartableRegionIDHash": 2116238088,
+            "glpTypeHash": -208532670,
+            "latitude": 60,
+            "flags": 130,
+            "missionTypeHash": 1453269315,
+            "regionIDHash": 2116238088,
+            "TitleSCHFileName": "local\\localization\\_Objectives_PrimaryObjectives\\_Missions\\Dropzone_HVT_A.sch",
+            "difficultyIDHash": -1406695490,
+            "useGlpUpperBound": false,
+            "warzonePreviewImageHash": 1739773568,
+            "glpUpperBoundValueHash": 788376724,
+            "longitude": -60,
+            "textureBudgetModifier": 0,
+            "missionIDHash": -2127773326,
+            "author": "aostojich",
+            "rewardTableIDHash": 1777820535,
+            "lengthIDHash": 840738933,
+            "glpLowerBoundValueHash": -1155680243,
+            "useGlpLowerBound": true,
+            "levelUpperBound": 100,
+            "sortBias": 0,
+            "DescriptionSCHFileName": "local\\localization\\_Objectives_PrimaryObjectives\\_Missions\\Dropzone_HVT_desc.sch",
+            "attributes": {
+              "MinimumNumberOfPlayers": {
+                "type": "int32",
+                "value": 0
+              }
+            },
+            "warzoneDataStoreLocation": 1,
+            "region": "PacificNorthwestRegionID",
+            "requiredDlcLicenseHashList": [
+              -909686745
+            ]
+          },
+          "title": {
+            "draft": [],
+            "name": "Warzone_5e546af442941b30995ccab4_Titles",
+            "text": {
+              "de": "Trainingskomplex für Alpha-Bedrohungen",
+              "ru": "База оперативно-диверсионной подготовки",
+              "ko": "알파 위협 훈련 복합 시설",
+              "pt": "Complexo de treinamento de ameaça alfa",
+              "zh-tw": "一級威脅訓練機構",
+              "en": "Alpha-Threat Training Complex",
+              "it": "Complesso di addestramento minacce alfa",
+              "fr": "Complexe d'entraînement de menaces alpha",
+              "zh-cn": "高级威胁训练中心",
+              "es": "Complejo de entrenamiento de nivel alfa",
+              "es-mx": "Complejo de entrenamiento de amenaza alfa",
+              "cs": "Výcvikové středisko pro hrozby stupně alfa",
+              "ar": "مجمع تدريب لمكافحة التهديدات الطفيفة",
+              "ja": "アルファレベル訓練施設",
+              "pl": "Kompleks szkoleniowy zagrożenia alfa"
+            },
+            "type": "TEXT"
+          },
+          "bundle": "default"
+        },
+        "isHopper": false,
+        "type": "WARZONE"
+      }
+    ],
+    "from": 0,
+    "to": 100,
+    "count": 14
+  },
+  "hopperInfo": {
+    "windowSize": 10,
+    "windowShiftAmount": 2,
+    "windowUpdateTimeSeconds": 600,
+    "windowReshuffleTimeSeconds": 3000000,
+    "modifierPercentage": 100.0,
+    "randomSeed": 1596000000,
+    "modifierSeed": 300000000,
+    "expirationTime": 1599000000
+  }
+}

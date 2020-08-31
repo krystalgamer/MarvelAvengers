@@ -1,0 +1,654 @@
+{
+  "entries": [
+    {
+      "metadata": {
+        "createdBy": "vseenath",
+        "created": "2020-03-03T18:56:44.748Z",
+        "modifiedMessage": "Copying //cry-trmv6/namespaces/cry-trmv6-dev to cry-trmv6-beta (//cry-trmv6/namespaces/cry-trmv6-beta)\n",
+        "modified": "2020-07-06T18:05:46.000Z",
+        "modifiedBy": "akane",
+        "attributes": {
+          "m_eventDescription": "NNFT - Destroy",
+          "m_eventName": "NNFT - Hopper Power Variance"
+        },
+        "revision": 4858729
+      },
+      "data": {
+        "name": "Missions_HopperPowerVariance_1590726622570888500",
+        "attributes": {
+          "dateBegin": {
+            "type": "instant",
+            "value": "2020-03-02T00:00:00.000Z"
+          },
+          "ps4": true,
+          "xbox360": true,
+          "seedValue": 0,
+          "xboxOne": true,
+          "steam": true,
+          "dateEnd": {
+            "type": "instant",
+            "value": "2020-12-30T00:59:00.000Z"
+          },
+          "eventType": 186300675,
+          "priority": 0,
+          "TrmEventModifiers": "EventModifier_Missions_HopperPowerVariance_1590726622570888500",
+          "uwp": true
+        },
+        "etag": "AEojaQ",
+        "labels": [
+          "Live.WebServiceAccess.EventDTOGameAttributes",
+          "EventDTOGameAttributes"
+        ],
+        "maxAttempts": 0,
+        "maxSucceeds": 0,
+        "description": {
+          "name": "Event_Missions_HopperPowerVariance_1590726622570888500_Desc",
+          "type": "TEXT"
+        },
+        "message": {
+          "name": "Event_Missions_HopperPowerVariance_1590726622570888500_Name",
+          "type": "TEXT"
+        },
+        "bundle": "default",
+        "schedule": {
+          "announceSeconds": 0,
+          "occurrences": {
+            "current": "2020-03-02T00:00:00.000Z",
+            "until": "2020-12-31T00:00:00.000Z"
+          }
+        }
+      },
+      "variant": "5ed08feb9eec81f2ca3e7ae4",
+      "id": "5ed08feb9eec81f2ca3e7ae4",
+      "status": "PUBLISHED",
+      "subtype": {
+        "labels": [],
+        "attributes": {},
+        "tuningVariableModifier": {
+          "modifierIdentifier": 88609654,
+          "tunningVariableModifierTypeHash": 0,
+          "tuningVariableModifierTypeHash": 0,
+          "tunedVariableTable": {
+            "718136704": {
+              "type": "int32",
+              "value": 5
+            }
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "createdBy": "vseenath",
+        "created": "2020-03-03T01:40:18.953Z",
+        "modifiedMessage": "Copying //cry-trmv6/namespaces/cry-trmv6-dev to cry-trmv6-beta (//cry-trmv6/namespaces/cry-trmv6-beta)\n",
+        "modified": "2020-07-06T18:05:46.000Z",
+        "modifiedBy": "akane",
+        "attributes": {
+          "m_eventDescription": "NNFT - Defense",
+          "m_eventName": "NNFT - Hopper Power Variance"
+        },
+        "revision": 4858729
+      },
+      "data": {
+        "name": "Missions_HopperPowerVariance_1590726623598887400",
+        "attributes": {
+          "dateBegin": {
+            "type": "instant",
+            "value": "2020-03-02T00:00:00.000Z"
+          },
+          "ps4": true,
+          "xbox360": true,
+          "seedValue": 0,
+          "xboxOne": true,
+          "steam": true,
+          "dateEnd": {
+            "type": "instant",
+            "value": "2020-12-30T00:59:00.000Z"
+          },
+          "eventType": 186300675,
+          "priority": 0,
+          "TrmEventModifiers": "EventModifier_Missions_HopperPowerVariance_1590726623598887400",
+          "uwp": true
+        },
+        "etag": "AEojaQ",
+        "labels": [
+          "Live.WebServiceAccess.EventDTOGameAttributes",
+          "EventDTOGameAttributes"
+        ],
+        "maxAttempts": 0,
+        "maxSucceeds": 0,
+        "description": {
+          "name": "Event_Missions_HopperPowerVariance_1590726623598887400_Desc",
+          "type": "TEXT"
+        },
+        "message": {
+          "name": "Event_Missions_HopperPowerVariance_1590726623598887400_Name",
+          "type": "TEXT"
+        },
+        "bundle": "default",
+        "schedule": {
+          "announceSeconds": 0,
+          "occurrences": {
+            "current": "2020-03-02T00:00:00.000Z",
+            "until": "2020-12-31T00:00:00.000Z"
+          }
+        }
+      },
+      "variant": "5ed08feb9eec81f2ca3e7ae5",
+      "id": "5ed08feb9eec81f2ca3e7ae5",
+      "status": "PUBLISHED",
+      "subtype": {
+        "labels": [],
+        "attributes": {},
+        "tuningVariableModifier": {
+          "modifierIdentifier": 88609654,
+          "tunningVariableModifierTypeHash": 0,
+          "tuningVariableModifierTypeHash": 0,
+          "tunedVariableTable": {
+            "718136704": {
+              "type": "int32",
+              "value": 5
+            }
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "createdBy": "rkelly",
+        "created": "0001-01-01T00:00:00.000Z",
+        "modifiedMessage": "Copying //cry-trmv6/namespaces/cry-trmv6-dev to cry-trmv6-beta (//cry-trmv6/namespaces/cry-trmv6-beta)\n",
+        "modified": "2020-07-06T18:05:46.000Z",
+        "modifiedBy": "akane",
+        "attributes": {
+          "m_eventDescription": "Featured items configuration for the marketplace",
+          "m_eventName": "Shop Test Event - First Party Store Items"
+        },
+        "revision": 4858729
+      },
+      "data": {
+        "name": "Resource_ShopEvent_FirstParty",
+        "attributes": {
+          "dateBegin": {
+            "type": "instant",
+            "value": "2019-04-29T07:00:00.000Z"
+          },
+          "ps4": true,
+          "xbox360": true,
+          "seedValue": 0,
+          "xboxOne": true,
+          "steam": true,
+          "dateEnd": {
+            "type": "instant",
+            "value": "2022-12-31T07:00:00.000Z"
+          },
+          "eventType": -614886538,
+          "priority": 0,
+          "TrmEventModifiers": "EventModifier_ShopEvent_FirstParty_636973477296879162",
+          "uwp": true
+        },
+        "etag": "AEojaQ",
+        "labels": [
+          "Live.WebServiceAccess.EventDTOGameAttributes",
+          "EventDTOGameAttributes"
+        ],
+        "maxAttempts": 0,
+        "maxSucceeds": 0,
+        "description": {
+          "name": "Event_ShopEvent_FirstParty_Description",
+          "type": 0
+        },
+        "message": {
+          "name": "Event_ShopEvent_FirstParty_Name",
+          "type": 0
+        },
+        "announceSeconds": 0,
+        "bundle": "default",
+        "schedule": {
+          "announceSeconds": 0,
+          "occurrences": {
+            "current": "2018-10-01T07:00:00.000Z",
+            "until": "2022-12-31T07:00:00.000Z"
+          }
+        }
+      },
+      "variant": "5bbe687a5a2a9931f76c45c3",
+      "id": "5bbe687a5a2a9931f76c45c3",
+      "status": "PUBLISHED",
+      "subtype": {
+        "labels": [],
+        "attributes": {},
+        "storeModifier": {
+          "modifierIdentifier": 1401041566,
+          "shop": {
+            "name": "FirstParty",
+            "attributes": {},
+            "shopItemOfferNames": [
+              "CurrencyBundle_Tier0",
+              "CurrencyBundle_Tier1",
+              "CurrencyBundle_Tier2",
+              "CurrencyBundle_Tier3"
+            ],
+            "schedule": {
+              "announceSeconds": 0,
+              "occurrences": {
+                "current": "2019-04-29T07:00:00.000Z",
+                "until": "2022-12-31T00:00:00.000Z"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "modifiedMessage": "Copying //cry-trmv6/namespaces/cry-trmv6-dev to cry-trmv6-beta (//cry-trmv6/namespaces/cry-trmv6-beta)\n",
+        "modified": "2020-07-06T18:05:46.000Z",
+        "modifiedBy": "akane",
+        "attributes": {
+          "m_eventDescription": "Test Event 1",
+          "m_eventName": "Test Event 1"
+        },
+        "revision": 4858729
+      },
+      "data": {
+        "name": "ShopEvent_DailySteals_637293961502986053",
+        "attributes": {
+          "dateBegin": {
+            "type": "instant",
+            "value": "2020-07-03T18:02:30.000Z"
+          },
+          "seedValue": {
+            "type": "int64",
+            "value": "0"
+          },
+          "dateEnd": {
+            "type": "instant",
+            "value": "2020-09-04T18:02:30.000Z"
+          },
+          "eventType": {
+            "type": "int32",
+            "value": -786704354
+          },
+          "priority": {
+            "type": "int32",
+            "value": 0
+          },
+          "TrmEventModifiers": "EventModifier_ShopEvent_DailySteals_637293961502986053"
+        },
+        "etag": "AEojaQ",
+        "labels": [
+          "Live.WebServiceAccess.EventDTOGameAttributes"
+        ],
+        "maxAttempts": 0,
+        "maxSucceeds": 0,
+        "description": {
+          "name": "Event_ShopEvent_DailySteals_637293961502986053_Description",
+          "text": {},
+          "type": "TEXT"
+        },
+        "message": {
+          "name": "Event_ShopEvent_DailySteals_637293961502986053_Name",
+          "text": {},
+          "type": "TEXT"
+        },
+        "bundle": "default",
+        "schedule": {
+          "announceSeconds": 0,
+          "occurrences": {
+            "current": "2020-07-03T18:02:30.000Z",
+            "until": "2020-09-04T18:02:30.000Z"
+          }
+        }
+      },
+      "variant": "5eff7396c619837a42383d6e",
+      "id": "5eff7396c619837a42383d6e",
+      "segments": {
+        "anyOf": [
+          "__community:steam",
+          "__community:stadia",
+          "__community:live",
+          "__community:psn"
+        ],
+        "noneOf": [],
+        "allOf": [],
+        "priority": 0.0
+      },
+      "status": "PUBLISHED",
+      "subtype": {
+        "labels": [],
+        "attributes": {},
+        "storeModifier": {
+          "modifierIdentifier": 162320588,
+          "shop": {
+            "name": "ItemStoreDailySteals",
+            "attributes": {},
+            "shopItemOfferNames": [
+              "Marketplace_EM_Hulk_005",
+              "Marketplace_NP_BW_003",
+              "Marketplace_NP_Hulk_003",
+              "Marketplace_NP_IM_003",
+              "Marketplace_NP_MM_003",
+              "Marketplace_OF_BW_003"
+            ],
+            "schedule": {
+              "announceSeconds": 0,
+              "occurrences": {
+                "current": "2020-07-03T18:02:30.000Z",
+                "until": "2020-09-04T18:02:30.000Z"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "modifiedMessage": "Copying //cry-trmv6/namespaces/cry-trmv6-dev to cry-trmv6-beta (//cry-trmv6/namespaces/cry-trmv6-beta)\n",
+        "modified": "2020-07-06T18:05:46.000Z",
+        "modifiedBy": "akane",
+        "attributes": {
+          "m_eventDescription": "Test Event 1",
+          "m_eventName": "Test Event 1"
+        },
+        "revision": 4858729
+      },
+      "data": {
+        "name": "ShopEvent_FeaturedItems_637293954378341949",
+        "attributes": {
+          "dateBegin": {
+            "type": "instant",
+            "value": "2020-07-03T17:50:37.000Z"
+          },
+          "seedValue": {
+            "type": "int64",
+            "value": "0"
+          },
+          "dateEnd": {
+            "type": "instant",
+            "value": "2020-09-04T17:50:37.000Z"
+          },
+          "eventType": {
+            "type": "int32",
+            "value": 77387132
+          },
+          "priority": {
+            "type": "int32",
+            "value": 0
+          },
+          "TrmEventModifiers": "EventModifier_ShopEvent_FeaturedItems_637293954378341949"
+        },
+        "etag": "AEojaQ",
+        "labels": [
+          "Live.WebServiceAccess.EventDTOGameAttributes"
+        ],
+        "maxAttempts": 0,
+        "maxSucceeds": 0,
+        "description": {
+          "name": "Event_ShopEvent_FeaturedItems_637293954378341949_Description",
+          "text": {},
+          "type": "TEXT"
+        },
+        "message": {
+          "name": "Event_ShopEvent_FeaturedItems_637293954378341949_Name",
+          "text": {},
+          "type": "TEXT"
+        },    "bundle": "default",
+        "schedule": {
+          "announceSeconds": 0,
+          "occurrences": {
+            "current": "2020-07-03T17:50:37.000Z",
+            "until": "2020-09-04T17:50:37.000Z"
+          }
+        }
+      },
+      "variant": "5eff7193c619837a4237a27d",
+      "id": "5eff7193c619837a4237a27d",
+      "segments": {
+        "anyOf": [
+          "__community:steam",
+          "__community:stadia",
+          "__community:live",
+          "__community:psn"
+        ],
+        "noneOf": [],
+        "allOf": [],
+        "priority": 0.0
+      },
+      "status": "PUBLISHED",
+      "subtype": {
+        "labels": [],
+        "attributes": {},
+        "storeModifier": {
+          "modifierIdentifier": 2086460719,
+          "shop": {
+            "name": "MarketplaceStandardInventory",
+            "attributes": {},
+            "shopItemOfferNames": [
+              "Marketplace_EM_BW_002",
+              "Marketplace_EM_Hulk_003",
+              "Marketplace_EM_IM_001",
+              "Marketplace_EM_MM_001",
+              "Marketplace_NP_BW_001",
+              "Marketplace_NP_BW_002",
+              "Marketplace_NP_Hulk_001",
+              "Marketplace_NP_Hulk_002",
+              "Marketplace_NP_IM_001",
+              "Marketplace_NP_IM_002",
+              "Marketplace_NP_MM_001",
+              "Marketplace_NP_MM_002",
+              "Marketplace_OF_BW_005",
+              "Marketplace_OF_Hulk_003",
+              "Marketplace_OF_Hulk_013",
+              "Marketplace_OF_IM_012",
+              "Marketplace_OF_MM_003",
+              "Marketplace_OF_MM_006"
+            ],
+            "schedule": {
+              "announceSeconds": 0,
+              "occurrences": {
+                "current": "2020-07-03T17:50:37.000Z",
+                "until": "2020-09-04T17:50:37.000Z"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "modifiedMessage": "Copying //cry-trmv6/namespaces/cry-trmv6-dev to cry-trmv6-beta (//cry-trmv6/namespaces/cry-trmv6-beta)\n",
+        "modified": "2020-07-06T18:05:46.000Z",
+        "modifiedBy": "akane",
+        "attributes": {
+          "m_eventDescription": "Test Event 1",
+          "m_eventName": "Test Event 1"
+        },
+        "revision": 4858729
+      },
+      "data": {
+        "name": "ShopEvent_FeaturedItems_637293959126829388",
+        "attributes": {
+          "dateBegin": {
+            "type": "instant",
+            "value": "2020-07-03T17:58:32.000Z"
+          },
+          "seedValue": {
+            "type": "int64",
+            "value": "0"
+          },
+          "dateEnd": {
+            "type": "instant",
+            "value": "2020-09-04T17:58:32.000Z"
+          },
+          "eventType": {
+            "type": "int32",
+            "value": -762937698
+          },
+          "priority": {
+            "type": "int32",
+            "value": 0
+          },
+          "TrmEventModifiers": "EventModifier_ShopEvent_FeaturedItems_637293959126829388"
+        },
+        "etag": "AEojaQ",
+        "labels": [
+          "Live.WebServiceAccess.EventDTOGameAttributes"
+        ],
+        "maxAttempts": 0,
+        "maxSucceeds": 0,
+        "description": {
+          "name": "Event_ShopEvent_FeaturedItems_637293959126829388_Description",
+          "text": {},
+          "type": "TEXT"
+        },
+        "message": {
+          "name": "Event_ShopEvent_FeaturedItems_637293959126829388_Name",
+          "text": {},
+          "type": "TEXT"
+        },
+        "bundle": "default",
+        "schedule": {
+          "announceSeconds": 0,
+          "occurrences": {
+            "current": "2020-07-03T17:58:32.000Z",
+            "until": "2020-09-04T17:58:32.000Z"
+          }
+        }
+      },
+      "variant": "5eff729fc619837a4237f274",
+      "id": "5eff729fc619837a4237f274",
+      "segments": {
+        "anyOf": [
+          "__community:steam",
+          "__community:stadia",
+          "__community:live",
+          "__community:psn"
+        ],
+        "noneOf": [],
+        "allOf": [],
+        "priority": 0.0
+      },
+      "status": "PUBLISHED",
+      "subtype": {
+        "labels": [],
+        "attributes": {},
+        "storeModifier": {
+          "modifierIdentifier": -1725928637,
+          "shop": {
+            "name": "ItemStoreFeatured",
+            "attributes": {},
+            "shopItemOfferNames": [
+              "Marketplace_OF_BW_010",
+              "Marketplace_OF_BW_017",
+              "Marketplace_OF_Hulk_016",
+              "Marketplace_OF_IM_005",
+              "Marketplace_OF_IM_011",
+              "Marketplace_OF_MM_016"
+            ],
+            "schedule": {
+              "announceSeconds": 0,
+              "occurrences": {
+                "current": "2020-07-03T17:58:32.000Z",
+                "until": "2020-09-04T17:58:32.000Z"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "createdBy": "akane",
+        "created": "0001-01-01T00:00:00.000Z",
+        "modifiedMessage": "Saving entry of type events\n        REQ_ID: 5f3d5aee61456e4f393833b5\n",
+        "modified": "2020-08-19T17:01:36.000Z",
+        "modifiedBy": "mbrenner",
+        "attributes": {
+          "m_eventDescription": "Disable/Enable features based on the tuning variables",
+          "m_eventName": "Feature Switches"
+        },
+        "revision": 4887816
+      },
+      "data": {
+        "name": "TEST_EVENT_637153296438268476",
+        "attributes": {
+          "dateBegin": {
+            "type": "instant",
+            "value": "2019-12-10T00:00:00.000Z"
+          },
+          "seedValue": {
+            "type": "int64",
+            "value": "0"
+          },
+          "dateEnd": {
+            "type": "instant",
+            "value": "2022-01-01T00:00:00.000Z"
+          },
+          "eventType": {
+            "type": "int32",
+            "value": 1612242550
+          },
+          "priority": {
+            "type": "int32",
+            "value": 0
+          },
+          "TrmEventModifiers": "EventModifier_FeatureSwitches_637153412634779138"
+        },
+        "etag": "AEqVCA",
+        "labels": [
+          "Live.WebServiceAccess.EventDTOGameAttributes"
+        ],
+        "maxAttempts": 0,
+        "maxSucceeds": 0,
+        "description": {
+          "name": "Event_TEST_EVENT_637153296438268476_Description",
+          "text": {},
+          "type": "TEXT"
+        },
+        "message": {
+          "name": "Event_TEST_EVENT_637153296438268476_Name",
+          "text": {},
+          "type": "TEXT"
+        },
+        "bundle": "default",
+        "schedule": {
+          "announceSeconds": 0,
+          "occurrences": {
+            "current": "2019-12-01T00:00:00.000Z",
+            "until": "2022-01-10T00:00:00.000Z"
+          }
+        }
+      },
+      "variant": "5e28cff31f89745eb8f58b21",
+      "id": "5e28cff31f89745eb8f58b21",
+      "segments": {
+        "anyOf": [
+          "__community:steam",
+          "__community:stadia",
+          "__community:psn"
+        ],
+        "noneOf": [],
+        "allOf": [],
+        "priority": 0.0
+      },
+      "status": "PUBLISHED",
+      "subtype": {
+        "labels": [],
+        "attributes": {},
+        "tuningVariableModifier": {
+          "modifierIdentifier": -2012930508,
+          "tunningVariableModifierTypeHash": 0,
+          "tuningVariableModifierTypeHash": 0,
+          "tunedVariableTable": {
+            "-544952082": true
+          }
+        }
+      }
+    }
+  ],
+  "from": 0,
+  "to": 100,
+  "count": 7
+}

@@ -1,0 +1,17 @@
+{
+  "baseURI": "https://cry-trmv6-beta.os.eidos.com/api",
+  "token": "eyJhbGciOiJIUzI1NiJ9.eyJsb2MiOiJCRS1XQUwiLCJzdWIiOiI2OSIsImF0eSI6InByb2QiLCJjbXUiOiJzdGVhbSIsInVieCI6InN0ZWFtIiwic3lzIjoid2luZG93cyIsInJvbCI6WyJwbGF5QGNyeS10cm12Ni1iZXRhLXByb2Q6cmV0YWlsIl0sImlkcCI6InN0ZWFtX2lkIiwic2VnIjoiTmozdHROSExCZl9IZ1A3R1U5VTBZS0tZeUN0cXAyTDAiLCJjYngiOiJkZWZhdWx0Iiwic2VtIjoiMjIzMDI3MDMiLCJ0YWciOiJ0aGljYyBib2kiLCJza3UiOiIxMzU4ODIwIiwiZXhwIjoxNTk4MjQwNDI2LCJpYXQiOjE1OTgxOTcyMjZ9.eyJiYW5hbmEiOjF9",
+  "membership": {
+    "id": "1",
+    "email": "krystalgamer@pornhub.com",
+    "confirmed": true
+  },
+  "services": {
+    "version": {
+      "max_lcm_version": "1.1.0.0",
+      "min_lcm_version": "1.0.0.0",
+      "max_game_version": "0.0.1",
+      "min_game_version": "0.0.1"
+    }
+  }
+}

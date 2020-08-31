@@ -1,0 +1,39 @@
+{
+  "host": "cry-trmv6-beta.os.eidos.com",
+  "name": "cry-trmv6",
+  "environment": "retail",
+  "context": "api",
+  "baseURI": "https://cry-trmv6-beta.os.eidos.com/api",
+  "time": 0,
+  "client": {
+    "ip": "gitgud",
+    "country": "NK",
+    "city": "Pyongyang",
+    "region": "69",
+    "localtime": "2020-08-23T00:00:00.000",
+    "latitude": 69,
+    "longitude": 69,
+    "userAgent": "Marvel's Avengers Beta/1.6.0 (arch=x64; build=x64@6.3.1.618@x64_gm@UTR-BUILD15@2020-07-14T20:34:21.992Z; impl=libCURL; sys=windows) osdk/6.3.1.618.206234 (lang=native)",
+    "timezone": "Asia/KimLand",
+    "languages": [
+      "en"
+    ],
+    "app": "Marvel's Avengers Beta",
+    "appVersion": "1.6.0",
+    "osdkVersion": "6.3.1.618.206234",
+    "system": "windows",
+    "architecture": "x64",
+    "implementation": "libCURL (native)"
+  },
+  "settings": {
+    "acceptEncoding": "gzip",
+    "minContentEncodingSize": 4096
+  },
+  "status": {
+    "services": "OK"
+  },
+  "versions": {
+    "application": "4.0.97",
+    "framework": "6.10.122"
+  }
+}

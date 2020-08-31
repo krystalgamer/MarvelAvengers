@@ -1,0 +1,78 @@
+{
+  "entries": [
+    {
+      "name": "5ef4313a38e8ad2396003c34",
+      "attributes": {
+        "Message_SCHFile": "local\\localization\\_UI_Infocast\\Beta_WelcomeToBeta.sch",
+        "Title_SCHFile": "local\\localization\\_UI_Infocast\\Beta_WelcomeToBeta_title.sch",
+        "imgId": {
+          "type": "int32",
+          "value": 7
+        },
+        "index": {
+          "type": "int32",
+          "value": 0
+        },
+        "updateHours": {
+          "type": "int32",
+          "value": 0
+        }
+      },
+      "etag": "AEpQyA",
+      "message": {
+        "localized": {},
+        "text": {
+          "de": "Willkommen zur Beta von Marvel's Avengers! Mach dich bereit zum Sammeln! Wir freuen uns, dass du dich angemeldet hast.<br><br>Als Zeichen unserer Dankbarkeit erhältst du die <font color='#F4D451'>Sammeln-Namensschild-Belohnung</font> für die Teilnahme an der Beta, wenn du dich nach Erscheinen im Spiel anmeldest. Zu Testzwecken haben wir dir 3.450 Credits gewährt. Du kannst damit deine Helden mit Objekten vom Marktplatz und von Herausforderungskarten anpassen. Dadurch können alle Spieler das vollständige Spiel mit gleichwertigem Zugriff auf eine größere Auswahl kosmetischer Objekte beginnen. Beachte bitte, dass in der Beta keine Transaktionen mit echtem Geld möglich sind. Alle in der Beta gekauften Objekte können bei Erscheinen des Spiels nicht mitgenommen werden.<br><br>Bestelle jetzt vor und erhalte exklusive Objekte: <font color='#F4D451'>playavengers.com</font>",
+          "ru": "Добро пожаловать в бета-версию «Мстителей Marvel»! Готовьтесь к общему сбору! Спасибо, что приняли участие в тестировании.\\n\\nВ качестве благодарности вы получите <font color='#F4D451'>«Именную эмблему общего сбора»</font>, когда войдете в игру после релиза.\\n\\nВ целях тестирования мы начислили вам 3450 кредитов, на которые можно приобрести товары в Магазине и карточки испытаний. Эти средства будут доступны только в период тестирования: они предназначены для того, чтобы игроки смогли подобрать для своих персонажей уникальный образ, выбирая из широкого ассортимента косметических товаров.\\n\\nОбратите внимание: в бета-версии нельзя совершать транзакции с использованием реальных денег. Предметы, приобретенные в бета-версии, не будут перенесены в полную версию игры.\\n\\nЖелаем приятно повеселиться!\\n\\nОформите предзаказ, и вы получите эксклюзивные предметы\\n<font color='#F4D451'>playavengers.com</font>      ",
+          "ko": "마블 어벤져스 베타에 오신 걸 환영합니다! 집결 명령에 대비하세요! 로그인해 주셔서 감사합니다.베타 버전에 참여해 주셔서 감사합니다. <br><br>감사의 표시로 게임이 출시되고 로그인하시면  <font color='#F4D451'>집결 이름표 보상</font>을 드립니다.테스트를 위해 상점과 도전 카드의 아이템으로 영웅을 꾸밀 수 있도록 3,450 크레딧을 드립니다. 이 크레딧은 베타 기간 동안에만 사용할 수 있습니다. 이를 통해 정식 게임이 출시되면 모든 플레이어가 더욱더 다양한 장식 아이템을 이용할 수 있게 될 것입니다.베타 버전에서는 유료 결제를 지썊ې하지 않습니다. 베타 버전에서 구매한 아이템은 이후 출시하는 정식 버전 게임에서 사용할 수 없습니다. 즐거운 시간 보내세요! <br><br>지금 미리 주문하고 특별 아이템을 받으세요. <font color='#F4D451'>playavengers.com</font>playavengers.com</font>      ",
+          "pt": "Boas-vindas ao Marvel's Avengers Beta! Avante, jogadores! Apreciamos o seu login. <br><br>Como símbolo da nossa gratidão, você receberá a <font color='#F4D451'>'Recompensa Placa de Identificação Avante'</font> por participar do Beta quando fizer o login no jogo após o lançamento. Para fins de teste, você recebeu 3.450 créditos para personalizar seus heróis com itens da Loja e Cartas de Desafio. Esses recursos só serão válidos durante a fase Beta. Isso permitirá que todos os jogadores comecem o jogo completo com acesso igualitário a uma seleção maior de itens cosméticos. Não haverá transações com dinheiro real no Beta. Os itens comprados durante o Beta não serão mantidos quando o jogo for lançado. Boa diversão!<br><br>Reserve agora para obter itens exclusivos: <font color='#F4D451'>playavengers.com</font>.",
+          "zh-tw": "歡迎來到《漫威復仇者聯盟》BETA封測！準備集結！感謝你的登入參與。<br><br>為了表達謝意，遊戲發行後，只要進入遊戲，你就會收到參與BETA封測的<font color='#F4D451'>「集結名牌獎勵」</font>。為了進行測試，我們會交給你3,450點數，讓你能夠利用商店與挑戰卡取得物品，賦予英雄更多個人特色。這些點數只能在BETA封測期間使用，如此一來，遊戲正式發行時，所有玩家才能平等取得選擇更多元的造型物品。請注意，在BETA封測中，無法使用真正的金錢進行交易。所有在BETA封測中購買的物品，未來也無法帶進正式發行的遊戲裡。<br><br>現在於 <font color='#F4D451'> playavengers.com</font> 預購即可獲得專屬物品。",
+          "en": "Better than the original, right? <br><br> <font color='#51f4b8'>Subscribe</font> to my YouTube channel. Code will be available after clearing private credentials.",
+          "it": "Benvenuto nella beta di Marvel's Avengers! Preparati ad unirti! Ti ringraziamo per aver effettuato l'accesso.<br><br>Come segno di gratitudine, riceverai la <font color='#F4D451'>targa premio Uniti</font> quando accederai al gioco al lancio. A scopo di test, ti abbiamo concesso 3.450 crediti da utilizzare durante la beta per personalizzare i tuoi eroi con oggetti dal negozio e dalle Carte sfida. Ciò consentirà a tutti i giocatori di iniziare il gioco completo con una equa selezione di elementi cosmetici da ottenere. Ricorda che durante la beta non è possibile effettuare transazioni con valuta reale e tutti gli oggetti acquistati non verranno trasferiti nel gioco al momento del lancio.<br><br>Preordina ora su <font color='#F4D451'>playavengers.com</font> per ottenere oggetti esclusivi.",
+          "fr": "Bienvenue dans la Bêta de Marvel's Avengers ! Préparez-vous à vous rassembler ! Merci de vous connecter.<br><br>Pour vous remercier d'avoir participé à la bêta, nous vous offrons la récompense <font color='#F4D451'>Plaque d'identification de rassemblement</font>. Vous l'obtiendrez en vous connectant dans le jeu à sa sortie. Nous vous avons octroyé 3 450 crédits à des fins de test pour que vous personnalisiez vos héros avec les objets disponibles dans laboutique en ligne ou obtenus dans les cartes de défis. Ils seront uniquement disponibles durant la bêta pour que tous les joueurs puissent commencer le jeu avec la même sélection d'objets cosmétiques. Remarque : vous ne pouvez pas faire de transactions avec de l'argent réel dans la bêta. Si vous achetez un objet dans la bêta, vous ne le récupérerez pas une fois le jeu sorti.<br><br>Précommandez le jeu dès maintenant sur \\n<font color='#F4D451'>playavengers.com</font> et recevez des objets exclusifs.\\n",
+          "zh-cn": "欢迎参加《漫威复仇者》Beta封测！准备集结！感谢您的登录。<br><br>为表达我们的感激之情，您在游戏发售后登录游戏时，将获得参加测试的<font color='#F4D451'>“集结铭牌奖励”</font>。出于测试目的，我们已发给您3450点数，方便您用商城和挑战卡中的物品个性化您的英雄。这份礼物仅在测试期间有效，以便所有的玩家能以相同的装扮物品开始完整版游戏。请注意，游戏测试中不能进行真钱交易。测试中购买的任何物品都不能在发售时带入游戏。<br><br>现在预购，还能获得专属物品：<font color='#F4D451'>playavengers.com</font>。",
+          "es": "¡Te damos la bienvenida a la beta de Marvel's Avengers! ¡Prepárate para reunirte! Gracias por iniciar sesión.<br><br>Como muestra de nuestra gratitud, cuando te conectes por primera vez al juego, recibirás la <font color='#F4D451'>chapa 'Reuníos' de recompensa </font> por haber participado en la beta.<br><br>Te hemos concedido 3450 créditos para que personalices a tus héroes con objetos de la tienda y tarjetas de desafíos y así probar su funcionamiento. Podrás utilizarlos solo durante la beta. Esto permitirá a todos los jugadores empezar el juego completo con acceso igualitario a una amplia selección de objetos cosméticos.<br><br>Ten en cuenta que en la beta no se permiten transacciones con dinero real. Los objetos que compres en la beta no se trasladarán al juego el día de su lanzamiento.<br><br>¡Que te diviertas!<br><br>Reserva el juego ahora  para obtener objetos exclusivos:<br><font color='#F4D451'>playavengers.com</font>",
+          "es-mx": "¡Te damos la bienvenida a la versión beta de Marvel's Avengers! Gracias por iniciar sesión.<br><br>Como muestra de nuestra gratitud, cuando te conectes por primera vez al juego, recibirás la <font color='#F4D451'>placa 'Reunidos' de recompensa</font> por haber participado en la versión beta. Tienes 3450 créditos para que personalizar a tus héroes con objetos del mercado y tarjetas de héroe para así probar su funcionamiento. Podrás utilizarlos solo durante la versión beta. Esto permitirá a todos los jugadores empezar el juego completo con acceso igualitario a una amplia selección de objetos de mejora estética. Ten en cuenta que en la versión beta no se permiten transacciones con dinero real. Los objetos que compres en la versión beta no se trasladarán al juego el día de su lanzamiento.<br><br>Reserva el juego ahora para obtener objetos exclusivos en <font color='#F4D451'>playavengers.com</font>.  ",
+          "cs": "Vítej v betě hry Marvel's Avengers! Připrav se na shromáždění! Děkujeme za přihlášení.<br><br>Jako projev díků od nás za účast v betě získáš jako odměnu <font color='#F4D451'>jmenovku Shromážděte se</font>, až se přihlásíš do hry po vydání. Pro testovací účely jsme ti dali 3 450 kreditů, za které si můžeš upravit hrdiny pomocí předmětů z tržiště a karet výzev. Tento příspěvek má platnost pouze po dobu trvání bety. Díky tomu budou moct všichni hráči začít plnou hru s rovnocenným přístupem k širokému výběru vzhledových doplňků. Pamatuj prosím, že v betě nelze provádět žádné transakce za reálné peníze. Předměty zakoupené v betě se nepřenesou do plné hry.<br><br>Předobjednej si hru a získej exkluzivní předměty na <font color='#F4D451'>playavengers.com</font>.",
+          "ar": "مرحبًا بك في لعبة مارٍĠأفنجرز التجريبية! استعد للاتحاد! نقدر تسجيل دخولك.\\n\\nكرمز لامتناننا، ستتلقى <font color='#F4D451'>'مكافأة بطاقة اسم الاتحاد'</font> للمشاركة في الإصدار التجريبي عند تسجيل الدخول إلى اللعبة عند الإطلاق.<br><br>\\n\\nلأغراض الاختبار، منحنا لك 3450 من الرصيد لتخصيص أبطالك بعناصر من المتجر وبطاقات التحدي. هذا سيسمح لجميع اللاعبين ببدء اللعبة الكاملة مع وصول متساوٍ إلى مجموعة العناصر التجميلية.\\n\\nيُرجى الملاحظة، لا يمكن إجراء معاملات بالأموال الحقيقية في الإصدار التجريبي. لن يتم نقل أي عناصر تم شراؤها في الإصدار التجريبي إلى اللعبة عند الإطلاق.<br><br>\\n\\nاطلب مسبقًا الآن من خلال <font color='#F4D451'>playavengers.com</font> للحصول على عناصر حصرية.    ",
+          "ja": "Marvel's Avengers (アベンジャーズ) のベータへようこそ！ログインいただき、ありがとうございます。アッセンブルの準備はいいですか？<br><br>ベータにご参加いただいた方は発売時にゲームへログインする際、感謝の気持ちとして報酬<font color='#F4D451'>「アッセンブルネームプレート」</font> が付与されます。また、ベータ期間中のみ使用できる3,450クレジットを差し上げます。こちらのクレジットでマーケットプレイスにて販売されるアイテムやチャレンジカードを購入し、ヒーローのカスタマイズ用にご利用いただけます。プレイヤーは豊富な装飾アイテムの中から自由にお選びいただける状態でゲーム本編をスタートすることが出来ます。ベータでは課金が一切行えません。また、ベータでご購入いただいたアイテムは製品版には引き継ぎません。予め、ご了承ください。<br><br>今すぐ予約して、限定アイテムを手に入れよう <font color='#F4D451'>playavengers.com</font> ",
+          "pl": "Witamy w wersji beta Marvel’s Avengers! Przygotuj się! Cieszymy się, że jesteś z nami.<br><br>W ramach wdzięczności za uczestnictwo w testach beta otrzymasz nagrodę w postaci <font color='#F4D451'>tabliczki z imieniem</font>, kiedy zalogujesz się do gry po premierze. Dla celów testowych na czas bety zapewniliśmy Ci 3450 kredytów, które możesz wydać na personalizację swoich bohaterów przy użyciu przedmiotów z targu i kart wyzwań. Pozwoli to graczom rozpocząć rozgrywkę z dostępem do szerszego wachlarza przedmiotów kosmetycznych. Należy pamiętać, że podczas testów beta nie będzie możliwe dokonywanie transakcji z użyciem prawdziwych pieniędzy. Przedmioty zakupione podczas testów beta nie zostaną przeniesione do ostatecznej wersji gry. Miłej zabawy!<br><br>Zamów w przedsprzedaży już teraz na <font color='#F4D451'>playavengers.com</font>, by otrzymać wyjątkowe przedmioty."
+        },
+        "type": "TEXT"
+      },
+      "title": {
+        "localized": {},
+        "text": {
+          "de": "Das Abenteuer beginnt",
+          "ru": "Приключение начинается",
+          "ko": "시작된 모험",
+          "pt": "A aventura começa",
+          "zh-tw": "冒險開始",
+          "en": "Krystal's Private Server",
+     
+     "it": "L'avventura inizia",
+          "fr": "L'aventure commence",
+          "zh-cn": "冒险开始",
+          "es": "Comienza la aventura",
+          "es-mx": "La aventura comienza",
+          "cs": "Dobrodružství začíná",
+          "ar": "بداية المغامرة",
+          "ja": "冒険の始まり",
+          "pl": "Początek przygody"
+        },
+        "type": "TEXT"
+      },
+      "bundle": "default",
+      "schedule": {
+        "announceSeconds": 0,
+        "occurrences": {
+          "current": "2020-06-24T00:00:00.000Z",
+          "until": "2020-09-01T00:00:00.000Z"
+        }
+      }
+    }
+  ],
+  "from": 0,
+  "to": 100,
+  "count": 1
+}

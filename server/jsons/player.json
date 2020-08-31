@@ -1,0 +1,23 @@
+{
+  "id": "5f36acd841319f739d9c7edf",
+  "location": "BE-WAL",
+  "shardHash": -1260007206,
+  "profile": {
+    "community": "steam",
+    "uid": "69",
+    "id": "steam-69"
+  },
+  "path": {
+    "key": "Player",
+    "name": "Player"
+  },
+  "data": {
+    "attributes": {
+      "CurrentCharacter": 3337360705
+    }
+  },
+  "metadata": {
+    "created": "2020-08-14T15:25:12.667Z",
+    "updated": "2020-08-23T19:24:43.445Z"
+  }
+}
