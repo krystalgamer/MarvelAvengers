@@ -7,6 +7,7 @@ The server responds with pre-recorded JSON from Square Enix Servers, they're tie
 
 You can read the blogpost about this project at: https://krystalgamer.github.io/avengers-emulator/
 
+Video of the emulator in action: https://www.youtube.com/watch?v=MLn475soq1M 
 
 ## Installation
 
